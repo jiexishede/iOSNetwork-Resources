@@ -7,8 +7,7 @@ Network Resources
 
 
 ##　　　　　　　　 Hope can set you free.
-　　　　　　　　　　　　　　　　　　　　![](./picture/Hope.jpg)
-
+　　　　　　　　　　　　　　　　　　　　![](https://github.com/jiexishede/iOSNetwork-Resources/blob/master/pictures/Hope.jpg)
 
 ##经典网站
 |       网站地址                  |            
