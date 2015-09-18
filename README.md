@@ -10,10 +10,11 @@ Network Resources
 　　　　　　　　　　　　　　　　　　　　![](https://github.com/jiexishede/iOSNetwork-Resources/blob/master/pictures/Hope.jpg)
 
 ##经典网站
-|       网站地址                  |            
+|       网站地址                  |        简介    
 |:--------------------------------:|:-----------------------------:|
 | [走心的 Swift 翻译组](http://swift.gg/)                   |
 |[Swift 周报](http://swiftsandbox.io/)| 
 |[iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS)
+|[Tim9Liu9/TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS)| iOS mac 开源项目库|
 
 
