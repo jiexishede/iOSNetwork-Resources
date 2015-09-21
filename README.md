@@ -2,6 +2,8 @@
 Network Resources
 ##　　成功者和其他人最大的区别就是，他们真正动手去做了，并且做了下去。任何行业只有两种人会成为超一流，一种是我就喜欢这行，所以无比狂热。一种是，不好意思，这个比赛我要赢。只有真正浪费过时间的人才知道时间的重要性
 
+>寻找实干和坚持的技术力量: 向那些视程序为生命、不断在前进的人致敬。
+
 
     感谢各位作者,如果有什么问题,请在Github联系我,谢谢。
 
@@ -18,3 +20,8 @@ Network Resources
 |[Tim9Liu9/TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS)| iOS mac 开源项目库|
 
 
+
+
+
+　　　　　　　　　　　　　　　　　　　　![](https://github.com/jiexishede/iOSNetwork-Resources/blob/master/pictures/程序员质能方程.jpg)
+			
