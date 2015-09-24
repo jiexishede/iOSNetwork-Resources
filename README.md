@@ -18,7 +18,8 @@
 |[Swift 周报](http://swiftsandbox.io/)| 
 |[iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS)
 |[Tim9Liu9/TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS)| iOS mac 开源项目库|
-
+|[ipader/SwiftGuide](https://github.com/ipader/SwiftGuide)|这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排。
+|[值得程序员和设计师关注的微信公众号](http://blog.jobbole.com/84342/)|
 
 
 

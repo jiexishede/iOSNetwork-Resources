@@ -13,17 +13,20 @@
 
 ##<a name="animation"/> 动画
 ### 文章
-|     文章地址|
+|     文章地址| 简介
 |:------:|----|
 |[CALayer Animation实践（一）：让应用灵动起来!](http://www.csdn.net/article/2015-09-07/2825633)|
 |[CALayer动画实践（二）：CAReplicatorLayer的用法](http://www.csdn.net/article/2015-09-09/2825659)|
-|[自定义控制器POP手势动画] (http://www.cocoachina.com/ios/20150914/13360.html)|
+|[CALayer Animation实践（三）：iPhone经典滑动解锁动画](http://www.csdn.net/article/2015-09-22/2825765)|无论iPhone机身样式如何改变，屏幕尺寸如何改变，iOS系统如何改变，唯有锁屏底部闪烁的滑动来解锁不变|
+|[自定义控制器POP手势动画](http://www.cocoachina.com/ios/20150914/13360.html)|
+|[iOS开发系列–让你的应用“动”起来](http://ios.jobbole.com/82488/) | 在iOS中随处都可以看到绚丽的动画效果，实现这些动画的过程并不复杂， 通过核心动画创建基础动画、关键帧动画、动画组、转场动画......|
 
 
 ### 项目
 |      项目地址  |  项目描述 |
 |:-------:|-----|
 |[MartinRGB/MTMaterialDelete](https://github.com/MartinRGB/MTMaterialDelete)|触摸删除粉碎效果|
+|[SergioChan/SCTableViewCell](https://github.com/SergioChan/SCTableViewCell)|一个模仿iOS8中的邮箱里面的cell删除动效以及滑动右侧菜单按钮效果的开源库|
 
 ##<a name="interface"/>常见UI
 ###文章
@@ -61,6 +64,8 @@
 |[Auto Layout 使用心得](http://lvwenhan.com/ios/430.html)|
 |[Masonry使用介绍](https://github.com/ming1016/study/wiki/Masonry)
 |[AutoLayout框架Masonry使用心得](http://www.jianshu.com/p/24e4ff56bfea?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|
+|[详细对比IB开发与纯手码开发的优劣](http://www.tuicool.com/articles/2eUnqyY)|
+|[]
 
 ###项目
 |      项目地址  |  项目描述 |
