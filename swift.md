@@ -24,7 +24,8 @@
 
 |  项目地址  |   简介   |
 |:--------:|----------|
-|[schwa/Swift-Community-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices)|  Swift 社区逐渐总结了一些比较成熟和先进的最佳实践。这篇文章为我们介绍了包括像是命名，单例，常量，类型等等一系列的推荐使用方式。| 
+|[schwa/Swift-Community-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices)|  Swift 社区逐渐总结了一些比较成熟和先进的最佳实践。这篇文章为我们介绍了包括像是命名，单例，常量，类型等等一系列的推荐使用方式。|
+|[在 30 天内，从零开始学习 Swift](http://ios.jobbole.com/82538/)|      | 
 
 ## 项目实战
 

@@ -54,6 +54,7 @@
 |[自定义搜索框](https://github.com/zangqilong198812/CustomSearchBar)|
 |[英语流利说滑动zoom的collectionviewlayout](https://github.com/zangqilong198812/CollectionZoomLayout)|
 |[弹出框组件](https://github.com/adad184/MMPopupView)
+|[模仿美团](https://github.com/zangqilong198812/MeituanDemo)| 美团demo |
 ##<a name="AutoLayout"/>AutoLayout
 
 ###文章
@@ -65,7 +66,8 @@
 |[Masonry使用介绍](https://github.com/ming1016/study/wiki/Masonry)
 |[AutoLayout框架Masonry使用心得](http://www.jianshu.com/p/24e4ff56bfea?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|
 |[详细对比IB开发与纯手码开发的优劣](http://www.tuicool.com/articles/2eUnqyY)|
-|[]
+|[AutoLayout 实现固定宽度动态高度的 ScrollView](http://www.cocoachina.com/ios/20150923/13451.html)| |
+|[UITabelView的自适应布局](http://ios.jobbole.com/82614/)|  |
 
 ###项目
 |      项目地址  |  项目描述 |
