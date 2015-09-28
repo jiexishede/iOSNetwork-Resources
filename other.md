@@ -19,6 +19,7 @@
 |[Reverse-Engineering iOS Apps: Hacking on Lyft](https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/) |想了解别人的App内部的工作原理码？Conrad演示了如何对Lyft iOS App进行逆向工程，注入代码、检查网络流量。通过类似的方式，你也可以对其他App进行分析。
 |[iOS 9 学习系列：Storyboard References](http://www.cocoachina.com/ios/20150922/13474.html)|如果你曾经使用 interface builder 创建过一个复杂、界面非常多的应用，你就会明白最后那些Storyboards 文件变的有多大。他会迅速变的无法管理。自从引入 Storyboard 以来，其实是可以把你的应用的不同模块切开到不同的 Storyboard 中的
 |[iOS开发系列--音频播放、录音、视频播放、拍照、视频录制](http://www.cnblogs.com/kenshincui/p/4186022.html)|
+|[手把手教学：在iOS 8中使用Cocoapods]|Cocoapods是iOS应用的包管理工具，它简化了第三方库的导入并帮助开发者处理库之间的依赖关系。本文主要介绍了如何在iOS 8中安装Cocoapods，以及如何使用Cocoapods导入FontBlaster这个第三方库。|
 ##项目实践总结
 
 |   文章地址| 简介    

@@ -27,6 +27,7 @@
 |:-------:|-----|
 |[MartinRGB/MTMaterialDelete](https://github.com/MartinRGB/MTMaterialDelete)|触摸删除粉碎效果|
 |[SergioChan/SCTableViewCell](https://github.com/SergioChan/SCTableViewCell)|一个模仿iOS8中的邮箱里面的cell删除动效以及滑动右侧菜单按钮效果的开源库|
+|[mamaral/Neon](https://github.com/mamaral/Neon)|A powerful Swift programmatic UI layout framework.
 
 ##<a name="interface"/>常见UI
 ###文章
@@ -36,6 +37,8 @@
 |[UICollectionView的简单重排](UICollectionViews有了简单的重排功能)|
 |[画中画效果](http://www.cocoachina.com/ios/20150914/13360.html)|
 |[MMPopupView](http://adad184.com/2015/09/08/opensource-mmpopupview/)  |弹出框组件应该是绝大多数应用都少不了的(只有极少数精心设计的APP会用不到) 当然我们的APP也不例外 之前我们APP的弹出框组件是我用pop写的 可是后来发现与系统原生动画有些冲突(pop内部用到了CATransaction 导致跟系统动画同时发生时会有问题) 所以上周花了大半天时间重写了一下MMPopupView这个组件
+|[非常Q萌的动画按钮效果，还有设计草图](http://victorbaro.com/)| 英语|
+
 
 
 
@@ -55,6 +58,8 @@
 |[英语流利说滑动zoom的collectionviewlayout](https://github.com/zangqilong198812/CollectionZoomLayout)|
 |[弹出框组件](https://github.com/adad184/MMPopupView)
 |[模仿美团](https://github.com/zangqilong198812/MeituanDemo)| 美团demo |
+|[Flat button with 9 different states using POP](https://github.com/victorBaro/VBFPopFlatButton)|非常Q萌的动画按钮效果
+|[molon/MLInputDodger](https://github.com/molon/MLInputDodger)|耦合度很低通用躲避输入View(例如键盘)
 ##<a name="AutoLayout"/>AutoLayout
 
 ###文章

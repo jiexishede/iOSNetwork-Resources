@@ -10,6 +10,8 @@
 |[iOS 9 适配系列教程](https://github.com/ChenYilong/iOS9AdaptationTips)|  初级篇 |
 |[Final iOS 9 Checklist For Your App](http://denzhadanov.com/2015/09/08/final-ios-9-checklist-for-your-app/)| iOS 9上架前的checklist，除了开发新功能，开发者还需要考虑如何教育用户、如何让Apple知道。|
 |[15分钟搞定iOS9 Quick Actions](http://mp.weixin.qq.com/s?__biz=MjM5NDMzMTcxMg==&mid=212175593&idx=1&sn=887118aaa63d4d364ccf16be9e807a72#rd)| 
+|[iOS 9 开发高级技巧](http://www.kuqin.com/shuoit/20150916/348106.html)|
+|[iOS 9 变化笔记](http://segmentfault.com/a/1190000003794595?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)|一些从iOS8过度到iOS9给我们带来的一些变化，及解决方法|
 ###<a name="project"/> Project
 
 |  Address  |    Brief introduction 
