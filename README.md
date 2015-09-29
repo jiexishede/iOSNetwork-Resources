@@ -21,8 +21,9 @@
 |[ipader/SwiftGuide](https://github.com/ipader/SwiftGuide)|这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排。
 |[值得程序员和设计师关注的微信公众号](http://blog.jobbole.com/84342/)|
 |[Github资源大汇总](http://github.ibireme.com/github/list/ios/)|国人总结的上百个Github上的开发框架和完整App|
-|[10 个很棒的学习 iOS 开发的网站](http://www.oschina.net/news/33276/10-best-sites-to-learn-ios-development)|        |
-
+|[10 个很棒的学习 iOS 开发的网站](http://www.oschina.net/news/33276/10-best-sites-to-learn-ios-development)|   
+|[免费编程书籍汇总](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development)|在这里你可以找到 500 本免费编程书，涵盖 80 个不同的编程语言，这些书在Git 库托管服务，不定期的更新中。
+|[sindresorhus/awesome](https://github.com/sindresorhus/awesome)|20000 stars  **全栈技术分享** |
 
 
 　　　　　　　　　　　　　　　　　　　　![](https://github.com/jiexishede/iOSNetwork-Resources/blob/master/pictures/errorsWithMoreCode.png)

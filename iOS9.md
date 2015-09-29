@@ -12,6 +12,7 @@
 |[15分钟搞定iOS9 Quick Actions](http://mp.weixin.qq.com/s?__biz=MjM5NDMzMTcxMg==&mid=212175593&idx=1&sn=887118aaa63d4d364ccf16be9e807a72#rd)| 
 |[iOS 9 开发高级技巧](http://www.kuqin.com/shuoit/20150916/348106.html)|
 |[iOS 9 变化笔记](http://segmentfault.com/a/1190000003794595?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)|一些从iOS8过度到iOS9给我们带来的一些变化，及解决方法|
+|[iOS 9适配技巧（更新版）](http://www.cocoachina.com/ios/20150929/13598.html)|
 ###<a name="project"/> Project
 
 |  Address  |    Brief introduction 
