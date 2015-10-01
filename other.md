@@ -1,4 +1,6 @@
 
+* [性能](#performance)
+* [面试](#Interview)
 
 ##
 
@@ -29,6 +31,15 @@
 
 
 
+##<a name="performance"/> 性能
+|    文章 地址   |  简介 
+|:----------:|          |
+|[性能调优](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques/blob/master/12-%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98/%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md)| 代码应该运行的尽量快，而不是更快 - 理查德  
+|[构建内存高效的应用](http://swift.gg/2015/09/21/building-memory-efficient-apps/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)| 学习提高应用性能的小技巧
+|[OC各种遍历方法的效率比较](http://www.jianshu.com/p/8810b1bfb34e?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weibo)|OC通常有四种遍历方法，通常我们都是想到用啥就用啥，那么他们各自的效率到底是如何呢？下面让我们来测试一下。
+|[一次TableView性能优化经历](http://yyny.me/ios/%E4%B8%80%E6%AC%A1TableView%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%BB%8F%E5%8E%86/)| UITableView的优化要注意的点
+
+
 
 ## 实用
 |   文章地址| 简介    
@@ -43,16 +54,12 @@
 |[开源分享登录项目openshare](https://github.com/100apps/openshare)|
 |[swift开源分享项目](https://github.com/nixzhu/MonkeyKing)|
 |[软件重构](http://blog.hikyson.cn/%E8%BD%AF%E4%BB%B6%E9%87%8D%E6%9E%84/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|   |
-## 性能
-|   文章地址  |     简介      |
-|:----:|----|
-|[构建内存高效的应用](http://swift.gg/2015/09/21/building-memory-efficient-apps/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)| 学习提高应用性能的小技巧
-|[OC各种遍历方法的效率比较](http://www.jianshu.com/p/8810b1bfb34e?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weibo)|OC通常有四种遍历方法，通常我们都是想到用啥就用啥，那么他们各自的效率到底是如何呢？下面让我们来测试一下。
 
 
 
 
-## 面试
+
+## 面试<a name="Interview"/>
 |   项目地址 |     |  |
 |:-----:|---
 |[iOS面试题集锦](https://github.com/ChenYilong/iOSInterviewQuestions)| @我就叫Sunny怎么了 在他的博文中的面试题目，并细心地给出了每个题目的参考答案。可以说如果你能把这些问题都答上个七七八八，可以说明你是具有担任 iOS 开发的高级职位的能力的。
