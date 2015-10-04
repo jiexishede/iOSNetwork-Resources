@@ -23,6 +23,7 @@
 |[iOS开发系列--音频播放、录音、视频播放、拍照、视频录制](http://www.cnblogs.com/kenshincui/p/4186022.html)|
 |[手把手教学：在iOS 8中使用Cocoapods](http://www.csdn.net/article/2015-09-25/2825798-cocoapods-tutorial-ios8-swift)|Cocoapods是iOS应用的包管理工具，它简化了第三方库的导入并帮助开发者处理库之间的依赖关系。本文主要介绍了如何在iOS 8中安装Cocoapods，以及如何使用Cocoapods导入FontBlaster这个第三方库。|
 |[iOS远端推送部署详解](http://hechen.info/2015/07/30/iOS-Push-Notification/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|如何进行 iOS 推送的证书生成流程以及代码实现
+|[Mock工具](http://weibo.com/p/1001603892825082184455)|单元测试的时候用到Mock工具来模拟这些外部依赖的对象，来完成单元测试
 ##项目实践总结
 
 |   文章地址| 简介    

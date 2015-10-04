@@ -17,6 +17,7 @@
 |[Git课程推荐](https://www.shiyanlou.com/courses/4)|
 |[Git 使用规范流程](http://www.imooc.com/article/1345)|
 |[Git 速查表大全](http://pan.baidu.com/s/1ntIGTQh)|
+|[Git常用命令备忘](http://blogread.cn/it/article/6282?f=wb)|看完此文之后,文末有推荐git进阶相关文章|
 |[简明 Git 命令速查表（中文版）](http://mp.weixin.qq.com/s?__biz=MjM5OTMxMzA4NQ==&mid=215473163&idx=1&sn=80253d151de50928eac18750b9af7967)|
 |[Git与GitHub系列教程](http://weibo.com/p/1001603886020235024324)|
 |[如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html)|

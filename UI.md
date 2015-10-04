@@ -20,6 +20,7 @@
 |[CALayer Animation实践（三）：iPhone经典滑动解锁动画](http://www.csdn.net/article/2015-09-22/2825765)|无论iPhone机身样式如何改变，屏幕尺寸如何改变，iOS系统如何改变，唯有锁屏底部闪烁的滑动来解锁不变|
 |[自定义控制器POP手势动画](http://www.cocoachina.com/ios/20150914/13360.html)|
 |[iOS开发系列–让你的应用“动”起来](http://ios.jobbole.com/82488/) | 在iOS中随处都可以看到绚丽的动画效果，实现这些动画的过程并不复杂， 通过核心动画创建基础动画、关键帧动画、动画组、转场动画......|
+|[如何制作一个炫酷好玩的爆炸效果](http://xxycode.com/ru-he-zhi-zuo-ge-xuan-ku-hao-wan-de-bao-zha-xiao-guo-2/)|
 
 
 
