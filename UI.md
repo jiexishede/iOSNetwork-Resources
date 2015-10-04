@@ -30,6 +30,7 @@
 |[MartinRGB/MTMaterialDelete](https://github.com/MartinRGB/MTMaterialDelete)|触摸删除粉碎效果|
 |[SergioChan/SCTableViewCell](https://github.com/SergioChan/SCTableViewCell)|一个模仿iOS8中的邮箱里面的cell删除动效以及滑动右侧菜单按钮效果的开源库|
 |[mamaral/Neon](https://github.com/mamaral/Neon)|A powerful Swift programmatic UI layout framework.
+|[如何制作一个炫酷好玩的爆炸效果](https://medium.com/app-coder-io/27-places-to-learn-ios-development-best-ones-b1bcfb48efab)
 
 ##<a name="interface"/>常见UI
 ###文章
