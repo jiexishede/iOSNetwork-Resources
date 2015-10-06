@@ -30,9 +30,11 @@
 ## 项目实战
 
 
-|    项目地址 ||
+|    项目地址 | 简介  |
 |:---:|--------|
 |[学习Swift不能错过的10大开源项目](http://www.imooc.com/article/1454)
+|[johnlui/Swift-On-iOS](https://github.com/johnlui/Swift-On-iOS)|iOS 开发知识大多为点状分布，比较难成体系。本 repo 将保存我的那些无法成系列文章的示例代码，给她们一个温暖的家。
+|[swiftcodex/Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro)|集成 LastFM 的专业电台应用（基于 Swift 2.0）。怎一个赞字可概括。
 
   
 
