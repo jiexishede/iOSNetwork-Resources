@@ -14,7 +14,7 @@
 ## 开发周报 
 
 | 开发周报 | 简介
-|:--------:|
+|:--------:|-------|
 |[Swift 开发者周刊](http://doswift.io/archive/0.html)
 |[https://github.com/ipader/SwiftGuide](https://github.com/ipader/SwiftGuide)|这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排。
 
