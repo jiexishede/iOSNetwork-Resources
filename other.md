@@ -61,12 +61,19 @@
 
 
 ## 面试<a name="Interview"/>
-|   项目地址 |     |  |
+|   地址 |     简介  |
 |:-----:|---
-|[iOS面试题集锦](https://github.com/ChenYilong/iOSInterviewQuestions)| @我就叫Sunny怎么了 在他的博文中的面试题目，并细心地给出了每个题目的参考答案。可以说如果你能把这些问题都答上个七七八八，可以说明你是具有担任 iOS 开发的高级职位的能力的。
+|[iOS面试题集锦](https://github.com/ChenYilong/iOSInterviewQuestions)|  面试题目，并细心地给出了每个题目的参考答案。可以说如果你能把这些问题都答上个七七八八，可以说明你是具有担任 iOS 开发的高级职位的能力的。
 |[Swift Interview Questions and Answers](http://www.raywenderlich.com/110982/swift-interview-questions-answers)|wift 从入门到高级的面试题目及答案，对于 Swift 的必备的基本概念考察还是比较完善的。**_因为 Swift 语言的特性，有些问题是颇有难度的。另外，想分享一句话给正在或者想要学习 Swift 的开发者：学习一门语言最快的途径就是去使用它，而不是不停看书或者文档。有些朋友会陷入越看书越绝望的情境中，诚然书籍很重要，但是我们学习一门程序语言的目的最终还是去使用它，也只有在实际使用时，才能真正学会这门语言。_**
 |[Swift 面试题及其答案](http://ios.jobbole.com/82445/)|Swift的知识浩如烟海——但是怎么测试你掌握了多少？在这篇文章中，我和这个raywenderlich.com网站的教学团队共同写了一个Swift面试问题列表。
 |[面试心得与总结---BAT、网易、蘑菇街](http://www.nowcoder.com/discuss/3043?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|
+|[面试官究竟如何考察求职者的「学习能力」？求职者在平时又该如何培养这种能力？](http://www.zhihu.com/question/20107788?utm_campaign=official_account&utm_source=weibo&utm_medium=zhihu&utm_content=question)| 知乎上关于面试时面试官考察应聘人"学习能力"的讨论
+
+
+## iOS知名人士访谈
+|   地址 |    简介|
+|:-----:|---
+|[专访百度知道iOS团队负责人孙源：代码强迫症的死实践派](http://www.csdn.net/article/2015-10-08/2825853-mdcc-interview-sunny)|CSDN专访百度知道iOS团队负责人孙源(我就叫Sunny怎么了)，请他分享了自己拥有代码强迫症和完美主义妄想症的死实践派style，对于iOS开发技术与开源的探究心得，以及如何成为一个靠谱的iOS程序员。
 
 
 
