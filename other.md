@@ -88,6 +88,17 @@
 |   地址  |  简介  |
 |:------:|------|
 |[学习iOS开发前应该知道的](http://ios.jobbole.com/82222/?plg_nld=1&plg_auth=1&plg_nld=1&plg_dev=1&plg_uin=1&plg_usr=1&plg_vkey=1&plg_nld=1&from=singlemessage&plg_uin=1&plg_auth=1&plg_usr=1&plg_dev=1&plg_nld=1&plg_vkey=1&isappinstalled=0#rd)|作者分享经验，希望新手一路平坦走向成功。
+|[作为iOS开发者，怎能不follow这52个牛人](http://www.cocoachina.com/programmer/20150728/12788.html)|Twitter是个获得最新iOS开发技术和相关信息的好地方。如果你刚好有Twitter账户，可以关注以下为你推荐的该领域内的52个优秀人物。
+|[澳洲iOS沙龙视频](https://vimeo.com/melbournecocoa)|
+|[27 places to learn iOS development. Best ones.](https://medium.com/app-coder-io/27-places-to-learn-ios-development-best-ones-b1bcfb48efab)|So you have decided that you want to learn iOS development, but you have no idea where to start?Less talk, more action. The first and the best place to learn iOS development is…
+
+
+
+##  开源项目
+|   地址  |  简介  |
+|:------:|------|
+|[JanzTam/MyGithubMark](https://github.com/JanzTam/MyGithubMark)|**Github上的iOS资料-个人记录（持续更新）**
+
 
 
 
