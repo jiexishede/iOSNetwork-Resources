@@ -28,6 +28,8 @@
 |[schwa/Swift-Community-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices)|  Swift 社区逐渐总结了一些比较成熟和先进的最佳实践。这篇文章为我们介绍了包括像是命名，单例，常量，类型等等一系列的推荐使用方式。|
 |[在 30 天内，从零开始学习 Swift](http://ios.jobbole.com/82538/)|      | 
 |[Swift 编程思想](http://swift.gg/2015/09/29/thinking-in-swift-1/)|开始用 Swift 写代码的时候最难的事情并不是语法，而是思维方式的转变，去用那些 ObjC 里并没有的 Swift 新概念。
+|[Tuples + Pattern Matching](https://medium.com/the-traveled-ios-developers-guide/tuples-pattern-matching-1f4ae9817112)|Swift 中的 switch 语句其实是基于模式匹配的，Swift 的模式匹配非常灵活，对于像多元组我们也可以使用模式匹配来控制代码的执行。这篇文章为我们介绍了 Swift 中使用 tuple 来做模式匹配的一些例子。
+
 
 ## 项目实战
 
@@ -38,6 +40,11 @@
 |[johnlui/Swift-On-iOS](https://github.com/johnlui/Swift-On-iOS)|iOS 开发知识大多为点状分布，比较难成体系。本 repo 将保存我的那些无法成系列文章的示例代码，给她们一个温暖的家。
 |[swiftcodex/Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro)|集成 LastFM 的专业电台应用（基于 Swift 2.0）。怎一个赞字可概括。
 
+
+## 优秀第三方
+|    项目地址 | 简介  |
+|:---:|--------|
+|[johnlui/Pitaya](https://github.com/johnlui/Pitaya)|秉承『代码是写给人看的，只是恰好能运行』理念的 iOS 网络库 Pitaya 携新 LOGO 和全新 API 发布 1.0 版。Pitaya 支持 Basic Authorization、SSL 钢钉、HTTP raw body / JSON body、快速文件上传等特性，并通过内置 JSONNeverDie 实现了对 JSON 的完全支持，开箱即用
   
 
 

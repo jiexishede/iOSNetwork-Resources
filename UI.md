@@ -41,6 +41,7 @@
 |[画中画效果](http://www.cocoachina.com/ios/20150914/13360.html)|
 |[MMPopupView](http://adad184.com/2015/09/08/opensource-mmpopupview/)  |弹出框组件应该是绝大多数应用都少不了的(只有极少数精心设计的APP会用不到) 当然我们的APP也不例外 之前我们APP的弹出框组件是我用pop写的 可是后来发现与系统原生动画有些冲突(pop内部用到了CATransaction 导致跟系统动画同时发生时会有问题) 所以上周花了大半天时间重写了一下MMPopupView这个组件
 |[非常Q萌的动画按钮效果，还有设计草图](http://victorbaro.com/)| 英语|
+|[美团domo](http://www.jianshu.com/p/5f28a7869935?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weibo)|
 
 
 
