@@ -62,6 +62,7 @@
 |[英语流利说滑动zoom的collectionviewlayout](https://github.com/zangqilong198812/CollectionZoomLayout)|
 |[弹出框组件](https://github.com/adad184/MMPopupView)
 |[模仿美团](https://github.com/zangqilong198812/MeituanDemo)| 模仿美团demo |
+|[tubie/JFMeiTuan](https://github.com/tubie/JFMeiTuan)|模仿美团
 |[Flat button with 9 different states using POP](https://github.com/victorBaro/VBFPopFlatButton)|非常Q萌的动画按钮效果
 |[molon/MLInputDodger](https://github.com/molon/MLInputDodger)|耦合度很低通用躲避输入View(例如键盘)
 |[CharlinFeng/CoreLock](https://github.com/CharlinFeng/CoreLock?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|高仿支付宝解锁 |
