@@ -69,6 +69,7 @@
 |[forkingdog/FDStackView](https://github.com/forkingdog/FDStackView)|经过百度iOS团队的努力，FDStackView alpha版本正式开源，可以将 UIStackView 的最低支持版本拉低到 iOS6，无需配置，没有代码侵染，扔到工程里后直接用系统 UIStackView 的 API 即可，同时兼容 Storyboard<br>**点击[介绍文章](http://blog.wtlucky.com/blog/2015/10/09/fdstackview-downward-compatible-uistackview-part-1/)**
 |[Roxasora/RxLabel](https://github.com/Roxasora/RxLabel)|a custom weico like label that could detect url and replace it with a button just like weico or vvebo, using coreText
 |[Glow-Inc/TaskSwitcherDemo](https://github.com/Glow-Inc/TaskSwitcherDemo	)|iOS 9 task switcher animation demo  <br>[实现思路文章介绍](http://t.cn/RL8Xck7?u=1222846020&m=3897249366893905&cu=1222846020&ru=5722964389&rm=3897226448959348)
+|[anyixiaoyue/SelectCell](https://github.com/anyixiaoyue/SelectCell)|选择cell展示详细信息 类似omnifocus 的日期选择器 效果
 
 
 ##<a name="AutoLayout"/>AutoLayout
