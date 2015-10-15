@@ -64,6 +64,7 @@
 |   文章地址 |    简介  |
 |:-----:|---
 |[10 Ways to Write Cleaner Code](http://blog.codeschool.io/2015/09/29/10-ways-to-write-cleaner-code/)|对整洁代码的追求应该是永无止境的，这篇文章并不是专门针对 iOS 开发的，而是介绍了十种对于一般的开发中应该考虑遵守的代码规范。读者可以逐条对比自己日常工作中的习惯来看看，有则改之，无则加勉，以求写出更漂亮的代码。
+|[写让别人能读懂的代码](http://www.kuqin.com/shuoit/20150930/348355.html)|“复杂的代码往往都是新手所写，只有经验老道的高手才能写出简单，富有表现力的代码”
 
 
 ## 面试<a name="Interview"/>
@@ -74,6 +75,7 @@
 |[Swift 面试题及其答案](http://ios.jobbole.com/82445/)|Swift的知识浩如烟海——但是怎么测试你掌握了多少？在这篇文章中，我和这个raywenderlich.com网站的教学团队共同写了一个Swift面试问题列表。
 |[面试心得与总结---BAT、网易、蘑菇街](http://www.nowcoder.com/discuss/3043?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|
 |[面试官究竟如何考察求职者的「学习能力」？求职者在平时又该如何培养这种能力？](http://www.zhihu.com/question/20107788?utm_campaign=official_account&utm_source=weibo&utm_medium=zhihu&utm_content=question)| 知乎上关于面试时面试官考察应聘人"学习能力"的讨论
+|[为什么面试总喜欢考算法题？](http://www.kuqin.com/shuoit/20150820/347696.html)
 
 
 ## iOS知名人士访谈
@@ -95,6 +97,7 @@
 |[作为iOS开发者，怎能不follow这52个牛人](http://www.cocoachina.com/programmer/20150728/12788.html)|Twitter是个获得最新iOS开发技术和相关信息的好地方。如果你刚好有Twitter账户，可以关注以下为你推荐的该领域内的52个优秀人物。
 |[澳洲iOS沙龙视频](https://vimeo.com/melbournecocoa)|
 |[27 places to learn iOS development. Best ones.](https://medium.com/app-coder-io/27-places-to-learn-ios-development-best-ones-b1bcfb48efab)|So you have decided that you want to learn iOS development, but you have no idea where to start?Less talk, more action. The first and the best place to learn iOS development is…
+|[程序员终极目标｜作为一个码妓，我是如何靠码字来使我的接客率翻番的](http://www.kuqin.com/shuoit/20150820/347694.html)|文字既有价值，又有力量。写作可以提供巨大的价值。想想那本你最喜欢的书，那本曾经改变了你的世界观、让你的生活变得比以前更好的书吧。
 
 
 
