@@ -19,6 +19,7 @@
 |[Git 使用规范流程](http://www.imooc.com/article/1345)|
 |[Git 使用规范流程](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html)|**团队开发中，遵循一个合理、清晰的Git使用流程，是非常重要的。<br>否则，每个人都提交一堆杂乱无章的commit，项目很快就会变得难以协调和维护。**
 |[Git的撤消操作 - 重置, 签出 和 撤消](http://gitbook.liuhui998.com/4_9.html)|Git提供了多种修复你开发过程中的错误的方法. 方法的选择取决于你的情况: 包含有错误的文件是否提交了(commited); 如果你把它已经提交了, 那么你是否把有错误的提交已与其它人共享这也很重要.
+|[如何在 Git 中使用撤消操作](http://gold.xitu.io/entry/561b189e60b2f3a9cd2a124b)|版本控制系统的一个好处就是你可以轻易地撤销之前错误的操作。
 |[工作区,暂存区,版本库](http://www.worldhello.net/2010/11/30/2166.html)|工作区,暂存区和版本库
 |[写好 Git Commit 信息的 7 个建议](http://blog.jobbole.com/92713/)|一个好的日志是一个优美和有用的东西，一旦日志处理的好，那么git blame、revert、rebase、log、shortlog 和其它子命令都将发挥它们的作用。查看别人的提交和 pull 请求是值得的，而且可以随时独立完成
 |[Git 速查表大全](http://pan.baidu.com/s/1ntIGTQh)|
@@ -29,6 +30,7 @@
 |[技术团队代码分支管理指南](https://open.leancloud.cn/git-branch-guide.html)|
 |[Git--团队开发必备神器](http://www.kuqin.com/shuoit/20150820/347699.html)|作者花了两天时间专门搞了一下git，整理一下分享给大家。
 |[git学习总结](http://yalishizhude.github.io/2015/09/16/git/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|
+|[图解Git相关工作流](http://www.jianshu.com/p/08ad7e427fec)|本文推荐了一个 git学习地址[learnGitBranching](learnGitBranching) 
 |[ GitHub 识别语言的规则和自定义](https://help.github.com/articles/my-repository-is-marked-as-the-wrong-language/)| 假如你的GitHub项目的语言识别错误可看此|
 |[常用Git命令汇总](http://www.imooc.com/article/1494)| 有评论说有几条不对, 你能看出是哪个吗?|
 |[git版本管理策略及相关技巧(A)](http://www.barretlee.com/blog/2014/05/07/cb-git-improve/)|

@@ -43,7 +43,7 @@
 |[构建内存高效的应用](http://swift.gg/2015/09/21/building-memory-efficient-apps/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)| 学习提高应用性能的小技巧
 |[OC各种遍历方法的效率比较](http://www.jianshu.com/p/8810b1bfb34e?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weibo)|OC通常有四种遍历方法，通常我们都是想到用啥就用啥，那么他们各自的效率到底是如何呢？下面让我们来测试一下。
 |[一次TableView性能优化经历](http://yyny.me/ios/%E4%B8%80%E6%AC%A1TableView%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%BB%8F%E5%8E%86/)| UITableView的优化要注意的点
-
+|[iOS高性能图片架构与设计](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207840007&idx=1&sn=ce09553e5774f5581c696b5e28f0c7e8#rd)|QQ空间终端开发团队
 
 
 ## 实用
@@ -65,6 +65,7 @@
 |:-----:|---
 |[10 Ways to Write Cleaner Code](http://blog.codeschool.io/2015/09/29/10-ways-to-write-cleaner-code/)|对整洁代码的追求应该是永无止境的，这篇文章并不是专门针对 iOS 开发的，而是介绍了十种对于一般的开发中应该考虑遵守的代码规范。读者可以逐条对比自己日常工作中的习惯来看看，有则改之，无则加勉，以求写出更漂亮的代码。
 |[写让别人能读懂的代码](http://www.kuqin.com/shuoit/20150930/348355.html)|“复杂的代码往往都是新手所写，只有经验老道的高手才能写出简单，富有表现力的代码”
+|[How to make your code self-documenting](http://codeutopia.net/blog/2014/12/01/how-to-make-your-code-self-documenting/)|如何提高代码可读性？一个技巧是，将复杂的表达式封装为一个函数，并起一个有意义的函数名
 
 
 ## 面试<a name="Interview"/>
