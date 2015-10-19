@@ -78,6 +78,7 @@
 |[面试心得与总结---BAT、网易、蘑菇街](http://www.nowcoder.com/discuss/3043?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|
 |[面试官究竟如何考察求职者的「学习能力」？求职者在平时又该如何培养这种能力？](http://www.zhihu.com/question/20107788?utm_campaign=official_account&utm_source=weibo&utm_medium=zhihu&utm_content=question)| 知乎上关于面试时面试官考察应聘人"学习能力"的讨论
 |[为什么面试总喜欢考算法题？](http://www.kuqin.com/shuoit/20150820/347696.html)
+|[iOS面试题汇总](http://t.cn/Rykb8MC)|iOS 面试题  汇总
 
 
 ## iOS知名人士访谈
