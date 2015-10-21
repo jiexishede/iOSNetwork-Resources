@@ -40,7 +40,7 @@
 |[10 个很棒的学习 iOS 开发的网站](http://www.oschina.net/news/33276/10-best-sites-to-learn-ios-development)|   
 |[免费编程书籍汇总](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development)|在这里你可以找到 500 本免费编程书，涵盖 80 个不同的编程语言，这些书在Git 库托管服务，不定期的更新中。
 |[sindresorhus/awesome](https://github.com/sindresorhus/awesome)|20000 stars  **全栈技术分享** |
-
+|[Github资源整理](http://andrewliu.in/2015/02/24/Github%E8%B5%84%E6%BA%90%E6%95%B4%E7%90%86/)| 各种资源 |
 
 ###<a name="other"/>其它
 

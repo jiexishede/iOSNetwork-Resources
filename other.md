@@ -36,6 +36,11 @@
 |[浅谈如何提高编程效率？](http://www.kuqin.com/shuoit/20150819/347681.html)|如何提高编程效率内容。
 |[浅谈程序的核心——复杂度](http://www.cocoachina.com/game/20151013/13725.html)|复杂度的要点所在就是程序给大脑带来的负担，它等同于程序员提升和开发程序的难易程度，这个负担随着模块的复杂度大约是平方级数增长。如果负担很低，那么一段程序的就容易控制，程序员就容易提升程序的质量。
 
+### 调试
+|   文章地址| 简介    
+|:------:|-----
+|[小黄鸭调试法，每个程序员都要知道的](http://blog.jobbole.com/85719/)|在调试代码的时候会在桌上放上这只小黄鸭，然后详细地向鸭子解释每行代码。
+
 ##<a name="performance"/> 性能
 |    文章 地址   |  简介 
 |:----------:|          |
@@ -67,6 +72,7 @@
 |[写让别人能读懂的代码](http://www.kuqin.com/shuoit/20150930/348355.html)|“复杂的代码往往都是新手所写，只有经验老道的高手才能写出简单，富有表现力的代码”
 |[How to make your code self-documenting](http://codeutopia.net/blog/2014/12/01/how-to-make-your-code-self-documenting/)|如何提高代码可读性？一个技巧是，将复杂的表达式封装为一个函数，并起一个有意义的函数名
 |[构建iOS稳定应用架构时方案选择的思考，主要涉及工程结构，数据流思想和代码规范](http://www.starming.com/index.php?v=index&view=83)|构建iOS稳定应用架构时方案选择的思考，主要涉及工程结构，数据流思想和代码规范 
+|[《禅与 Objective-C 编程艺术》](http://objc-zen-book.books.yourtion.com/)|一本介绍如何设计和构建优秀的代码的Objective-C 编程艺术图书。
 
 
 ## 面试<a name="Interview"/>

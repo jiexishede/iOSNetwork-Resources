@@ -22,6 +22,7 @@
 |[如何在 Git 中使用撤消操作](http://gold.xitu.io/entry/561b189e60b2f3a9cd2a124b)|版本控制系统的一个好处就是你可以轻易地撤销之前错误的操作。
 |[工作区,暂存区,版本库](http://www.worldhello.net/2010/11/30/2166.html)|工作区,暂存区和版本库
 |[写好 Git Commit 信息的 7 个建议](http://blog.jobbole.com/92713/)|一个好的日志是一个优美和有用的东西，一旦日志处理的好，那么git blame、revert、rebase、log、shortlog 和其它子命令都将发挥它们的作用。查看别人的提交和 pull 请求是值得的，而且可以随时独立完成
+|[A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)|
 |[Git 速查表大全](http://pan.baidu.com/s/1ntIGTQh)|
 |[Git常用命令备忘](http://blogread.cn/it/article/6282?f=wb)|看完此文之后,文末有推荐git进阶相关文章|
 |[简明 Git 命令速查表（中文版）](http://mp.weixin.qq.com/s?__biz=MjM5OTMxMzA4NQ==&mid=215473163&idx=1&sn=80253d151de50928eac18750b9af7967)|
@@ -44,3 +45,4 @@
 |[纯干货：如何使用git和github管理自己的项目？](http://mp.weixin.qq.com/s?__biz=MzA4NDIzNzMwMw==&mid=210307235&idx=1&sn=7488270941cee779f48796f1d3f13c04&3rd=MzA3MDU4NTYzMw==&scene=6#rd)|一.是找到全面的、详细的、生动的、高质量的教程。廖雪峰的git教程是我目前找到的最好的一个。之前找到的讲解git用法的书《pro git》现在看来是没有必要再看了！<br>二.就是自己立即去学，其实没什么难的，不要被貌似难的表象、概念唬住。<br>三.是最好能自己做简单的、系统的整理，方便自己随时再回来查看、复习、参考，不至于出现这样的情况：学完以后过一段时间之后再用，但是这时候发现忘了差不多了！<br>四.就是立即动手去用，否则学完很快就忘了。
 |[Github 365天: 给你一年的时间，你会怎样去提高你的水平](https://www.phodal.com/blog/github-365-days-review/)|给你一年的时间，你会怎样去提高你的水平？？？同样告诉你作者认为编程领域的专家是什么样的
 |[GitHub企业版最佳安全实践](https://github.com/blog/2077-github-enterprise-security-best-practices)|GitHub企业版最佳安全实践
+|[iOS开发中的Git流程](http://www.jianshu.com/p/87e34894a9f9?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)|教最实用的，多人开发到底怎么用Git。
