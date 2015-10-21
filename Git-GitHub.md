@@ -33,6 +33,7 @@
 |[git学习总结](http://yalishizhude.github.io/2015/09/16/git/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|
 |[图解Git相关工作流](http://www.jianshu.com/p/08ad7e427fec)|本文推荐了一个 git学习地址[learnGitBranching](learnGitBranching) 
 |[ GitHub 识别语言的规则和自定义](https://help.github.com/articles/my-repository-is-marked-as-the-wrong-language/)| 假如你的GitHub项目的语言识别错误可看此|
+|[Git与GitHub你不知道的十件事](http://owenou.com/2012/01/13/ten-things-you-didnt-know-git-and-github-could-do.html)|Git 和 GitHub都是非常强大的工具。即使你已经使用他们很长时间，你也很有可能不知道每个细节。我整理了Git和GitHub可能提高日常效率的10个常用技巧。
 |[常用Git命令汇总](http://www.imooc.com/article/1494)| 有评论说有几条不对, 你能看出是哪个吗?|
 |[git版本管理策略及相关技巧(A)](http://www.barretlee.com/blog/2014/05/07/cb-git-improve/)|
 |[Git程序员的那点事](http://weibo.com/ikuqin?from=feed&loc=at&nick=%E9%85%B7%E5%8B%A4%E7%BD%91-%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E9%82%A3%E7%82%B9%E4%BA%8B&noscale_head=1&is_search=1&key_word=git#_0)|  学完 廖雪峰的Git教程 来这 看看吧 

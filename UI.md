@@ -42,6 +42,7 @@
 |[MMPopupView](http://adad184.com/2015/09/08/opensource-mmpopupview/)  |弹出框组件应该是绝大多数应用都少不了的(只有极少数精心设计的APP会用不到) 当然我们的APP也不例外 之前我们APP的弹出框组件是我用pop写的 可是后来发现与系统原生动画有些冲突(pop内部用到了CATransaction 导致跟系统动画同时发生时会有问题) 所以上周花了大半天时间重写了一下MMPopupView这个组件
 |[非常Q萌的动画按钮效果，还有设计草图](http://victorbaro.com/)| 英语|
 |[美团domo](http://www.jianshu.com/p/5f28a7869935?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weibo)|
+|[iOS 绘制饼图](http://www.lvesli.com/?p=339#0-tsina-1-3276-397232819ff9a47a7b7e80a40613cfe1)|首先绘制扇形，然后在中央添加一个圆形View，计算每个部分所占角度就是用每部分的比例*360就是该部分所占的角度。
 
 
 
@@ -70,6 +71,7 @@
 |[Roxasora/RxLabel](https://github.com/Roxasora/RxLabel)|a custom weico like label that could detect url and replace it with a button just like weico or vvebo, using coreText
 |[Glow-Inc/TaskSwitcherDemo](https://github.com/Glow-Inc/TaskSwitcherDemo	)|iOS 9 task switcher animation demo  <br>[实现思路文章介绍](http://t.cn/RL8Xck7?u=1222846020&m=3897249366893905&cu=1222846020&ru=5722964389&rm=3897226448959348)
 |[anyixiaoyue/SelectCell](https://github.com/anyixiaoyue/SelectCell)|选择cell展示详细信息 类似omnifocus 的日期选择器 效果
+|[gontovnik/DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)|Elastic pull to refresh for iOS developed in Swift
 
 
 ##<a name="AutoLayout"/>AutoLayout
