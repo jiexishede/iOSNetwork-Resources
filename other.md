@@ -1,6 +1,7 @@
 
 * [性能](#performance)
 * [面试](#Interview)
+* [学习指导](#study)
 
 ##
 
@@ -99,7 +100,7 @@
 |[给女朋友的 iOS 开发教程 iOS With Girlfriend](https://ruby-china.org/topics/27549)|来自国内开发者 Kevin 的一个系列视频教程，从设计入手讲述如何开发一个 iOS 应用。
 
 
-##   学习指导
+## <a name="study"/>   学习指导
 |   地址  |  简介  |
 |:------:|------|
 |[学习iOS开发前应该知道的](http://ios.jobbole.com/82222/?plg_nld=1&plg_auth=1&plg_nld=1&plg_dev=1&plg_uin=1&plg_usr=1&plg_vkey=1&plg_nld=1&from=singlemessage&plg_uin=1&plg_auth=1&plg_usr=1&plg_dev=1&plg_nld=1&plg_vkey=1&isappinstalled=0#rd)|作者分享经验，希望新手一路平坦走向成功。
@@ -114,6 +115,7 @@
 |   地址  |  简介  |
 |:------:|------|
 |[JanzTam/MyGithubMark](https://github.com/JanzTam/MyGithubMark)|**Github上的iOS资料-个人记录（持续更新）**
+|[Coding/Coding-iOS](https://github.com/Coding/Coding-iOS)| @Coding 官方开源的一个完整的 iOS 应用, 里面的很多代码结构, 模块功能划分, 第三方服务的集成使用等经验都非常值得开发者学习和参考 Coding 地址:
 
 
 
