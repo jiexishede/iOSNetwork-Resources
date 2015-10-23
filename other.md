@@ -1,7 +1,10 @@
 
 * [性能](#performance)
+* [代码质量](#code)
 * [面试](#Interview)
+* [知名人士访谈](#people)
 * [学习指导](#study)
+* [开源项目](#project)
 
 ##
 
@@ -66,7 +69,7 @@
 |[swift开源分享项目](https://github.com/nixzhu/MonkeyKing)|
 |[软件重构](http://blog.hikyson.cn/%E8%BD%AF%E4%BB%B6%E9%87%8D%E6%9E%84/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|   |
 
-## 代码质量
+##<a name="code"/> 代码质量
 |   文章地址 |    简介  |
 |:-----:|---
 |[10 Ways to Write Cleaner Code](http://blog.codeschool.io/2015/09/29/10-ways-to-write-cleaner-code/)|对整洁代码的追求应该是永无止境的，这篇文章并不是专门针对 iOS 开发的，而是介绍了十种对于一般的开发中应该考虑遵守的代码规范。读者可以逐条对比自己日常工作中的习惯来看看，有则改之，无则加勉，以求写出更漂亮的代码。
@@ -76,7 +79,7 @@
 |[《禅与 Objective-C 编程艺术》](http://objc-zen-book.books.yourtion.com/)|一本介绍如何设计和构建优秀的代码的Objective-C 编程艺术图书。
 
 
-## 面试<a name="Interview"/>
+## <a name="Interview"/>面试
 |   地址 |     简介  |
 |:-----:|---
 |[iOS面试题集锦](https://github.com/ChenYilong/iOSInterviewQuestions)|  面试题目，并细心地给出了每个题目的参考答案。可以说如果你能把这些问题都答上个七七八八，可以说明你是具有担任 iOS 开发的高级职位的能力的。
@@ -88,7 +91,7 @@
 |[iOS面试题汇总](http://t.cn/Rykb8MC)|iOS 面试题  汇总
 
 
-## iOS知名人士访谈
+##<a name="people"/> iOS知名人士访谈
 |   地址 |    简介|
 |:-----:|---
 |[专访百度知道iOS团队负责人孙源：代码强迫症的死实践派](http://www.csdn.net/article/2015-10-08/2825853-mdcc-interview-sunny)|CSDN专访百度知道iOS团队负责人孙源(我就叫Sunny怎么了)，请他分享了自己拥有代码强迫症和完美主义妄想症的死实践派style，对于iOS开发技术与开源的探究心得，以及如何成为一个靠谱的iOS程序员。
@@ -100,7 +103,7 @@
 |[给女朋友的 iOS 开发教程 iOS With Girlfriend](https://ruby-china.org/topics/27549)|来自国内开发者 Kevin 的一个系列视频教程，从设计入手讲述如何开发一个 iOS 应用。
 
 
-## <a name="study"/>   学习指导
+##<a name="study"/>   学习指导
 |   地址  |  简介  |
 |:------:|------|
 |[学习iOS开发前应该知道的](http://ios.jobbole.com/82222/?plg_nld=1&plg_auth=1&plg_nld=1&plg_dev=1&plg_uin=1&plg_usr=1&plg_vkey=1&plg_nld=1&from=singlemessage&plg_uin=1&plg_auth=1&plg_usr=1&plg_dev=1&plg_nld=1&plg_vkey=1&isappinstalled=0#rd)|作者分享经验，希望新手一路平坦走向成功。
@@ -111,7 +114,7 @@
 
 
 
-##  开源项目
+##<a name="project"/>  开源项目
 |   地址  |  简介  |
 |:------:|------|
 |[JanzTam/MyGithubMark](https://github.com/JanzTam/MyGithubMark)|**Github上的iOS资料-个人记录（持续更新）**
