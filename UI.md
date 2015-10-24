@@ -21,7 +21,7 @@
 |[自定义控制器POP手势动画](http://www.cocoachina.com/ios/20150914/13360.html)|
 |[iOS开发系列–让你的应用“动”起来](http://ios.jobbole.com/82488/) | 在iOS中随处都可以看到绚丽的动画效果，实现这些动画的过程并不复杂， 通过核心动画创建基础动画、关键帧动画、动画组、转场动画......|
 |[如何制作一个炫酷好玩的爆炸效果](http://xxycode.com/ru-he-zhi-zuo-ge-xuan-ku-hao-wan-de-bao-zha-xiao-guo-2/)|
-
+|[利用UIWebView打造一个炫酷的视频背景视图（OC & Swift）](http://www.cocoachina.com/ios/20151023/13860.html)
 
 
 ### 项目
@@ -72,6 +72,7 @@
 |[Glow-Inc/TaskSwitcherDemo](https://github.com/Glow-Inc/TaskSwitcherDemo	)|iOS 9 task switcher animation demo  <br>[实现思路文章介绍](http://t.cn/RL8Xck7?u=1222846020&m=3897249366893905&cu=1222846020&ru=5722964389&rm=3897226448959348)
 |[anyixiaoyue/SelectCell](https://github.com/anyixiaoyue/SelectCell)|选择cell展示详细信息 类似omnifocus 的日期选择器 效果
 |[gontovnik/DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)|Elastic pull to refresh for iOS developed in Swift
+|[https://github.com/Damonvvong/DWCustomTabBarDemo](https://github.com/Damonvvong/DWCustomTabBarDemo)|自定义UITabBarController的 TabBar---适用目前所有主流 APP
 
 
 ##<a name="AutoLayout"/>AutoLayout

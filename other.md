@@ -89,6 +89,7 @@
 |[面试官究竟如何考察求职者的「学习能力」？求职者在平时又该如何培养这种能力？](http://www.zhihu.com/question/20107788?utm_campaign=official_account&utm_source=weibo&utm_medium=zhihu&utm_content=question)| 知乎上关于面试时面试官考察应聘人"学习能力"的讨论
 |[为什么面试总喜欢考算法题？](http://www.kuqin.com/shuoit/20150820/347696.html)
 |[iOS面试题汇总](http://t.cn/Rykb8MC)|iOS 面试题  汇总
+|[只有程序员看的懂面试圣经｜如何拿下编程面试](http://www.kuqin.com/shuoit/20151013/348477.html)|面试获得成功的六个步骤
 
 
 ##<a name="people"/> iOS知名人士访谈
@@ -118,7 +119,9 @@
 |   地址  |  简介  |
 |:------:|------|
 |[JanzTam/MyGithubMark](https://github.com/JanzTam/MyGithubMark)|**Github上的iOS资料-个人记录（持续更新）**
-|[Coding/Coding-iOS](https://github.com/Coding/Coding-iOS)| @Coding 官方开源的一个完整的 iOS 应用, 里面的很多代码结构, 模块功能划分, 第三方服务的集成使用等经验都非常值得开发者学习和参考 Coding 地址:
+|[Coding/Coding-iOS](https://github.com/Coding/Coding-iOS)| @Coding 官方开源的一个完整的 iOS 应用, 里面的很多代码结构, 模块功能划分, 第三方服务的集成使用等经验都非常值得开发者学习和参考
+|[zpz1237/NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0)|在Xcode 7.0 Swift2.0环境下编写<br>主体为Swift，但利用了大量OC工具类<br>注释相当详细，十分便于理解
+|[rnystrom/HackerNewsReader](https://github.com/rnystrom/HackerNewsReader)|A small, read-only app for Hacker News.
 
 
 

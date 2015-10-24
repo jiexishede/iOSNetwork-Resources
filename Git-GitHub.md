@@ -47,3 +47,4 @@
 |[Github 365天: 给你一年的时间，你会怎样去提高你的水平](https://www.phodal.com/blog/github-365-days-review/)|给你一年的时间，你会怎样去提高你的水平？？？同样告诉你作者认为编程领域的专家是什么样的
 |[GitHub企业版最佳安全实践](https://github.com/blog/2077-github-enterprise-security-best-practices)|GitHub企业版最佳安全实践
 |[iOS开发中的Git流程](http://www.jianshu.com/p/87e34894a9f9?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)|教最实用的，多人开发到底怎么用Git。
+|[GitHub Gist 指南](http://group.jobbole.com/9655/)|开 发人员常常使用Gist记录他们的代码片段，但是Gist不仅仅是为极客和码农开发的，每个人都可以用到它。
