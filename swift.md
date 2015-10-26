@@ -39,6 +39,9 @@
 |[学习Swift不能错过的10大开源项目](http://www.imooc.com/article/1454)
 |[johnlui/Swift-On-iOS](https://github.com/johnlui/Swift-On-iOS)|iOS 开发知识大多为点状分布，比较难成体系。本 repo 将保存我的那些无法成系列文章的示例代码，给她们一个温暖的家。
 |[swiftcodex/Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro)|集成 LastFM 的专业电台应用（基于 Swift 2.0）。怎一个赞字可概括。
+|[zekunyan/TTGEmojiRate](https://github.com/zekunyan/TTGEmojiRate)|TTGEmojiRate is an emoji-liked rating view for iOS which is implemented in Swift.<br>You can drop up and down on the Emoji face to change the rate, which is more interactive.<br>TTGEmojiRate is also highly customizable that many features of it can be configure, like the emoji line width and the mouth width.控件以Emoji表情为基础，结合了上下滑动手势，正好最近正在深入学习iOS动画、绘图相关的知识，就尝试着用UIBezierPath实现了出来。本文就是TTGEmojiRate的实现过程。
+
+
 
 
 ## 优秀第三方
