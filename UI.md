@@ -24,6 +24,7 @@
 |[利用UIWebView打造一个炫酷的视频背景视图（OC & Swift）](http://www.cocoachina.com/ios/20151023/13860.html)
 
 
+
 ### 项目
 |      项目地址  |  项目描述 |
 |:-------:|-----|
@@ -31,6 +32,9 @@
 |[SergioChan/SCTableViewCell](https://github.com/SergioChan/SCTableViewCell)|一个模仿iOS8中的邮箱里面的cell删除动效以及滑动右侧菜单按钮效果的开源库|
 |[mamaral/Neon](https://github.com/mamaral/Neon)|A powerful Swift programmatic UI layout framework.
 |[如何制作一个炫酷好玩的爆炸效果](https://medium.com/app-coder-io/27-places-to-learn-ios-development-best-ones-b1bcfb48efab)
+|[ninjaprox/NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)|NVActivityIndicatorView is a collection of nice loading animations.<br>This is original a fork from DGActivityIndicatorView, inspired by Loaders.css, written in Swift with full implementation of animations.<br>You can also find Objective-C version of this here.
+
+
 
 ##<a name="interface"/>常见UI
 ###文章
