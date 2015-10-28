@@ -79,6 +79,7 @@
 |[gontovnik/DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)|Elastic pull to refresh for iOS developed in Swift
 |[https://github.com/Damonvvong/DWCustomTabBarDemo](https://github.com/Damonvvong/DWCustomTabBarDemo)|自定义UITabBarController的 TabBar---适用目前所有主流 APP
 |[Roxasora/RxWebViewController](https://github.com/Roxasora/RxWebViewController)|实现类似微信的 webView 导航效果，包括进度条，左滑返回上个网页或者直接关闭，就像 UINavigationController
+|[zpz1237/NirKxMenu](https://github.com/zpz1237/NirKxMenu)| 可定制化弹出菜单栏.
 
 
 

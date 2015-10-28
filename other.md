@@ -59,6 +59,7 @@
 |   文章地址| 简介    
 |:------:|-----
 |[facebook/FBSimulatorControl](https://github.com/facebook/FBSimulatorControl)  | Facebook开源的能够管理、控制iOS 模拟器的库。可以同时在一台机器上起多个模拟器。 
+|[Reveal常用技巧](http://revealapp.com/blog/reveal-common-tips-cn.html)|基于Reveal 1.6。
 
 
 
@@ -77,6 +78,7 @@
 |[How to make your code self-documenting](http://codeutopia.net/blog/2014/12/01/how-to-make-your-code-self-documenting/)|如何提高代码可读性？一个技巧是，将复杂的表达式封装为一个函数，并起一个有意义的函数名
 |[构建iOS稳定应用架构时方案选择的思考，主要涉及工程结构，数据流思想和代码规范](http://www.starming.com/index.php?v=index&view=83)|构建iOS稳定应用架构时方案选择的思考，主要涉及工程结构，数据流思想和代码规范 
 |[《禅与 Objective-C 编程艺术》](http://objc-zen-book.books.yourtion.com/)|一本介绍如何设计和构建优秀的代码的Objective-C 编程艺术图书。
+|[iOS开发中的Git流程](http://www.jianshu.com/p/87e34894a9f9?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)|http://www.jianshu.com/p/87e34894a9f9?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo
 
 
 ## <a name="Interview"/>面试
@@ -101,7 +103,8 @@
 ## 视频教程连载
 |   地址 |    简介|
 |:-----:|---
-|[给女朋友的 iOS 开发教程 iOS With Girlfriend](https://ruby-china.org/topics/27549)|来自国内开发者 Kevin 的一个系列视频教程，从设计入手讲述如何开发一个 iOS 应用。
+|[给女朋友的 iOS 开发教程 iOS With Girlfriend](https://ruby-china.org/topics/27549)|来自国内开发者 Kevin 的一个系列视频教程，从设计入手讲述如何开发一个 iOS 应用。|
+|[关于Git的主要维护者滨野纯的访谈](http://blog.jobbole.com/48849/)|优秀程序员的品质:坚持,审美观,沟通能力|
 
 
 ##<a name="study"/>   学习指导
