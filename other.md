@@ -60,6 +60,7 @@
 |:------:|-----
 |[facebook/FBSimulatorControl](https://github.com/facebook/FBSimulatorControl)  | Facebook开源的能够管理、控制iOS 模拟器的库。可以同时在一台机器上起多个模拟器。 
 |[Reveal常用技巧](http://revealapp.com/blog/reveal-common-tips-cn.html)|基于Reveal 1.6。
+|[《Exploring Apple’s 3D Touch》](https://medium.com/@rknla/exploring-apple-s-3d-touch-f5980ef45af5#.vbnhcafrl)|介绍和分析了 3D Touch 中各 API 的使用方式和注意点。
 
 
 
@@ -72,7 +73,7 @@
 
 ##<a name="code"/> 代码质量
 |   文章地址 |    简介  |
-|:-----:|---
+|:-----:|---|
 |[10 Ways to Write Cleaner Code](http://blog.codeschool.io/2015/09/29/10-ways-to-write-cleaner-code/)|对整洁代码的追求应该是永无止境的，这篇文章并不是专门针对 iOS 开发的，而是介绍了十种对于一般的开发中应该考虑遵守的代码规范。读者可以逐条对比自己日常工作中的习惯来看看，有则改之，无则加勉，以求写出更漂亮的代码。
 |[写让别人能读懂的代码](http://www.kuqin.com/shuoit/20150930/348355.html)|“复杂的代码往往都是新手所写，只有经验老道的高手才能写出简单，富有表现力的代码”
 |[How to make your code self-documenting](http://codeutopia.net/blog/2014/12/01/how-to-make-your-code-self-documenting/)|如何提高代码可读性？一个技巧是，将复杂的表达式封装为一个函数，并起一个有意义的函数名
