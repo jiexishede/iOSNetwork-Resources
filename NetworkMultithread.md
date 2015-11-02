@@ -25,6 +25,7 @@
 |            文章名         |         简介 |
 |:--------------------:|--------------------------|
 |[kean/DFImageManager](https://github.com/kean/DFImageManager)|加载和缓存图像高级框架, 可以结合AFN使用.一个非常全面的图片框架，可以负责图片的下载，缓存以及处理等等工作。你不仅可以简单地使用这个框架完成一些日常应用开发时的常见任务，也可以通过依赖注入等方式来自定义框架的行为和功能。框架不仅仅支持常规图片操作，对于一些在 iOS 上并不太常用的图片格式和细节也有相当好的支持。如果你需要一款“一站式”的图片管理框架，那 DFImageManager 绝对是值得关注和考虑的对象。|
+|[yuantiku/YTKNetwork](https://github.com/yuantiku/YTKNetwork)|YTKNetwork is a high level request util based on AFNetworking.**YTKNetwork 是猿题库 iOS 研发团队基于 AFNetworking 封装的 iOS 网络库，其实现了一套 High Level 的 API，提供了更高层次的网络访问抽象。YTKNetwork 现在同时被使用在猿题库公司的所有产品的 iOS 端，包括：猿题库、 小猿搜题、 猿辅导 、 粉笔直播课 。**
 
 
 
