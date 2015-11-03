@@ -45,6 +45,7 @@
 |[为什么你应该深入Github](https://www.phodal.com/blog/why-you-should-work-hard-with-github/)|方便工作,获得一份工作,扩大人脉,其他
 |[纯干货：如何使用git和github管理自己的项目？](http://mp.weixin.qq.com/s?__biz=MzA4NDIzNzMwMw==&mid=210307235&idx=1&sn=7488270941cee779f48796f1d3f13c04&3rd=MzA3MDU4NTYzMw==&scene=6#rd)|一.是找到全面的、详细的、生动的、高质量的教程。廖雪峰的git教程是我目前找到的最好的一个。之前找到的讲解git用法的书《pro git》现在看来是没有必要再看了！<br>二.就是自己立即去学，其实没什么难的，不要被貌似难的表象、概念唬住。<br>三.是最好能自己做简单的、系统的整理，方便自己随时再回来查看、复习、参考，不至于出现这样的情况：学完以后过一段时间之后再用，但是这时候发现忘了差不多了！<br>四.就是立即动手去用，否则学完很快就忘了。
 |[Github 365天: 给你一年的时间，你会怎样去提高你的水平](https://www.phodal.com/blog/github-365-days-review/)|给你一年的时间，你会怎样去提高你的水平？？？同样告诉你作者认为编程领域的专家是什么样的
+|[Start Learning Git and GitHub Today with Self-Paced Training](https://github.com/blog/2083-start-learning-git-and-github-today-with-self-paced-training)|GitHub 官方实践教程|
 |[GitHub企业版最佳安全实践](https://github.com/blog/2077-github-enterprise-security-best-practices)|GitHub企业版最佳安全实践
 |[iOS开发中的Git流程](http://www.jianshu.com/p/87e34894a9f9?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)|教最实用的，多人开发到底怎么用Git。
 |[GitHub Gist 指南](http://group.jobbole.com/9655/)|开 发人员常常使用Gist记录他们的代码片段，但是Gist不仅仅是为极客和码农开发的，每个人都可以用到它。
