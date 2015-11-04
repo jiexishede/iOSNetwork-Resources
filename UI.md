@@ -48,7 +48,7 @@
 |[美团domo](http://www.jianshu.com/p/5f28a7869935?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weibo)|
 |[iOS 绘制饼图](http://www.lvesli.com/?p=339#0-tsina-1-3276-397232819ff9a47a7b7e80a40613cfe1)|首先绘制扇形，然后在中央添加一个圆形View，计算每个部分所占角度就是用每部分的比例*360就是该部分所占的角度。
 |[Xcode 7：Storyboard Reference、Strong IBOutlet以及Scene Dock](http://www.cocoachina.com/ios/20151026/13868.html)|关于Xcode 7中Interface Builder的新特性，我相信这将会改变你对Storyboards的看法
-
+|[印象笔记交互效果的实现](http://www.jianshu.com/p/dfb857763942)|用swift实现了印象笔记的两个交互|
 
 
 
