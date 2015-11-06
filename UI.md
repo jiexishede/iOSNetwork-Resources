@@ -49,6 +49,9 @@
 |[iOS 绘制饼图](http://www.lvesli.com/?p=339#0-tsina-1-3276-397232819ff9a47a7b7e80a40613cfe1)|首先绘制扇形，然后在中央添加一个圆形View，计算每个部分所占角度就是用每部分的比例*360就是该部分所占的角度。
 |[Xcode 7：Storyboard Reference、Strong IBOutlet以及Scene Dock](http://www.cocoachina.com/ios/20151026/13868.html)|关于Xcode 7中Interface Builder的新特性，我相信这将会改变你对Storyboards的看法
 |[印象笔记交互效果的实现](http://www.jianshu.com/p/dfb857763942)|用swift实现了印象笔记的两个交互|
+|[自己动手造无限循环图片轮播](https://autolayout.club/2015/10/29/自己动手造无限循环图片轮播/)| swift 版 无限轮播|
+|[ibireme/YYWebImage](https://github.com/ibireme/YYWebImage)|**Asynchronous image loading framework. 此人在每个轮子都可以看看,研究**
+
 
 
 
@@ -81,7 +84,8 @@
 |[Roxasora/RxWebViewController](https://github.com/Roxasora/RxWebViewController)|实现类似微信的 webView 导航效果，包括进度条，左滑返回上个网页或者直接关闭，就像 UINavigationController
 |[zpz1237/NirKxMenu](https://github.com/zpz1237/NirKxMenu)| 可定制化弹出菜单栏.
 |[12207480/TYAttributedLabel](https://github.com/12207480/TYAttributedLabel)|强大的属性文本控件(无需了解CoreText)，支持图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示
-
+|[steipete/PSTAlertController](https://github.com/steipete/PSTAlertController)|**API similar to UIAlertController, backwards compatible to iOS 7. Will use the new shiny API when you run iOS 8. 此人多个经典轮子..**
+|[zhengjinghua/StitchingImage](https://github.com/zhengjinghua/StitchingImage)|iOS 仿微信群组封面拼接控件, 直接拖进项目就可使用, 支持 CocoaPods 安装. WeChat-like, drop-in version, stitching mage
 
 
 ##<a name="AutoLayout"/>AutoLayout
@@ -98,7 +102,7 @@
 |[AutoLayout 实现固定宽度动态高度的 ScrollView](http://www.cocoachina.com/ios/20150923/13451.html)| |
 |[UITabelView的自适应布局](http://ios.jobbole.com/82614/)|  |
 |[深入剖析Auto Layout，分析iOS各版本新增特性](http://www.starming.com/index.php?v=index&view=84)|看了些Auto Layout相关的书籍博客，还有官方文档和WWDC Session相关视频，因为项目中用到了当然要多了解点才能够安心用嘛  (干货)|
-
+|[AUTO LAYOUT MAGIC: CONTENT SIZING PRIORITIES](http://krakendev.io/blog/autolayout-magic-like-harry-potter-but-real)| **AutoLayout 高级使用细节  英文博客**| 
 ###项目
 |      项目地址  |  项目描述 |
 |:-------:|--------|

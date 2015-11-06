@@ -33,6 +33,7 @@
 |   文章地址| 简介    
 |:------:|-----
 |[iOS代码实践总结](http://blog.csdn.net/colorapp/article/details/48597267)|   前几个月完成对MVVM/RAC的学习之后，最近一直在默默地对项目代码进行重构，
+|[微信iOS9 适配总结]](http://gold.xitu.io/entry/562dde9e00b0acaa4772b497)| 大厂,何必多说|
 
 ## 效率相关
 |   文章地址| 简介    
@@ -128,6 +129,7 @@
 |[Coding/Coding-iOS](https://github.com/Coding/Coding-iOS)| @Coding 官方开源的一个完整的 iOS 应用, 里面的很多代码结构, 模块功能划分, 第三方服务的集成使用等经验都非常值得开发者学习和参考
 |[zpz1237/NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0)|在Xcode 7.0 Swift2.0环境下编写<br>主体为Swift，但利用了大量OC工具类<br>注释相当详细，十分便于理解
 |[rnystrom/HackerNewsReader](https://github.com/rnystrom/HackerNewsReader)|A small, read-only app for Hacker News.
+|[jamy0801/LGWeChatKit](https://github.com/jamy0801/LGWeChatKit)|**swift版 高仿 微信 **|
 
 
 
