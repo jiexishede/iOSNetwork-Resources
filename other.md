@@ -94,6 +94,7 @@
 |[为什么面试总喜欢考算法题？](http://www.kuqin.com/shuoit/20150820/347696.html)
 |[iOS面试题汇总](http://t.cn/Rykb8MC)|iOS 面试题  汇总
 |[只有程序员看的懂面试圣经｜如何拿下编程面试](http://www.kuqin.com/shuoit/20151013/348477.html)|面试获得成功的六个步骤
+|[这些 iOS 面试基础题目，你都深入了解吗?](http://www.cocoachina.com/ios/20151106/14069.html)|题目来自博客：面试百度的记录|
 
 
 ##<a name="people"/> iOS知名人士访谈
@@ -119,7 +120,7 @@
 |[澳洲iOS沙龙视频](https://vimeo.com/melbournecocoa)|
 |[27 places to learn iOS development. Best ones.](https://medium.com/app-coder-io/27-places-to-learn-ios-development-best-ones-b1bcfb48efab)|So you have decided that you want to learn iOS development, but you have no idea where to start?Less talk, more action. The first and the best place to learn iOS development is…
 |[程序员终极目标｜作为一个码妓，我是如何靠码字来使我的接客率翻番的](http://www.kuqin.com/shuoit/20150820/347694.html)|文字既有价值，又有力量。写作可以提供巨大的价值。想想那本你最喜欢的书，那本曾经改变了你的世界观、让你的生活变得比以前更好的书吧。
-
+|[在 30 天内，从零开始学习 Swift](http://www.kuqin.com/shuoit/20150915/348076.html)|适合 英文功底身后的人 |
 
 
 ##<a name="project"/>  开源项目
@@ -130,6 +131,7 @@
 |[zpz1237/NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0)|在Xcode 7.0 Swift2.0环境下编写<br>主体为Swift，但利用了大量OC工具类<br>注释相当详细，十分便于理解
 |[rnystrom/HackerNewsReader](https://github.com/rnystrom/HackerNewsReader)|A small, read-only app for Hacker News.
 |[jamy0801/LGWeChatKit](https://github.com/jamy0801/LGWeChatKit)|**swift版 高仿 微信 **|
+|[LonelyTown/LXZEALER](https://github.com/LonelyTown/LXZEALER)| ZEALER 客户端模仿|
 
 
 
