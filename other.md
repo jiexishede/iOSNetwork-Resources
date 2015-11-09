@@ -62,6 +62,7 @@
 |[facebook/FBSimulatorControl](https://github.com/facebook/FBSimulatorControl)  | Facebook开源的能够管理、控制iOS 模拟器的库。可以同时在一台机器上起多个模拟器。 
 |[Reveal常用技巧](http://revealapp.com/blog/reveal-common-tips-cn.html)|基于Reveal 1.6。
 |[《Exploring Apple’s 3D Touch》](https://medium.com/@rknla/exploring-apple-s-3d-touch-f5980ef45af5#.vbnhcafrl)|介绍和分析了 3D Touch 中各 API 的使用方式和注意点。
+|[正则表达式30分钟入门](http://deerchao.net/tutorials/regex/regex.htm?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|
 
 
 

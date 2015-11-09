@@ -14,6 +14,7 @@
 |[How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 |[代码分支管理指南](http://open.leancloud.cn/git-branch-guide.html)| 作者认为涉及团队协作的方面需要有一些一致的规范
 |[版本管理工具介绍—Git篇(GitHub)](http://www.imooc.com/view/208)|
+|[常用Git命令汇总](http://www.jianshu.com/p/0f2ffa404ac1)|**汇总了一些常用的Git命令**|
 |[够用一年的Git技巧](http://www.imooc.com/article/1426)|
 |[Git课程推荐](https://www.shiyanlou.com/courses/4)|
 |[Git 使用规范流程](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html)|**团队开发中，遵循一个合理、清晰的Git使用流程，是非常重要的。<br>否则，每个人都提交一堆杂乱无章的commit，项目很快就会变得难以协调和维护。**
