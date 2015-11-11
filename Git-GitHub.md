@@ -29,6 +29,7 @@
 |[Git与GitHub系列教程](http://weibo.com/p/1001603886020235024324)|
 |[如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html)|
 |[技术团队代码分支管理指南](https://open.leancloud.cn/git-branch-guide.html)|
+|[一个优秀的提交应该包含什么?](http://blog.jobbole.com/42515/)| 一个好的提交是什么样的..
 |[Git--团队开发必备神器](http://www.kuqin.com/shuoit/20150820/347699.html)|作者花了两天时间专门搞了一下git，整理一下分享给大家。
 |[git学习总结](http://yalishizhude.github.io/2015/09/16/git/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|
 |[图解Git相关工作流](http://www.jianshu.com/p/08ad7e427fec)|本文推荐了一个 git学习地址[learnGitBranching](learnGitBranching) 
@@ -47,6 +48,7 @@
 |[纯干货：如何使用git和github管理自己的项目？](http://mp.weixin.qq.com/s?__biz=MzA4NDIzNzMwMw==&mid=210307235&idx=1&sn=7488270941cee779f48796f1d3f13c04&3rd=MzA3MDU4NTYzMw==&scene=6#rd)|一.是找到全面的、详细的、生动的、高质量的教程。廖雪峰的git教程是我目前找到的最好的一个。之前找到的讲解git用法的书《pro git》现在看来是没有必要再看了！<br>二.就是自己立即去学，其实没什么难的，不要被貌似难的表象、概念唬住。<br>三.是最好能自己做简单的、系统的整理，方便自己随时再回来查看、复习、参考，不至于出现这样的情况：学完以后过一段时间之后再用，但是这时候发现忘了差不多了！<br>四.就是立即动手去用，否则学完很快就忘了。
 |[Github 365天: 给你一年的时间，你会怎样去提高你的水平](https://www.phodal.com/blog/github-365-days-review/)|给你一年的时间，你会怎样去提高你的水平？？？同样告诉你作者认为编程领域的专家是什么样的
 |[Start Learning Git and GitHub Today with Self-Paced Training](https://github.com/blog/2083-start-learning-git-and-github-today-with-self-paced-training)|GitHub 官方实践教程|
+|[Git & GitHub 入门官方视频 + 中文字幕](http://www.nowcoder.com/courses/2?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|Git是一个分布式的版本控制系统，最初由Linus Torvalds编写，用作Linux内核代码的管理。在推出后，Git在其它项目中也取得了很大成功，尤其是在Ruby社区中。目前，包括Rubinius、Merb和Bitcoin在内的很多知名项目都使用了Git。GitHub 使用 Git 作为版本控制系统（version control system）提供在线源码托管的服务。同时是一个有社交功能的开发者社区|
 |[GitHub企业版最佳安全实践](https://github.com/blog/2077-github-enterprise-security-best-practices)|GitHub企业版最佳安全实践
 |[iOS开发中的Git流程](http://www.jianshu.com/p/87e34894a9f9?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)|教最实用的，多人开发到底怎么用Git。
 |[GitHub Gist 指南](http://group.jobbole.com/9655/)|开 发人员常常使用Gist记录他们的代码片段，但是Gist不仅仅是为极客和码农开发的，每个人都可以用到它。

@@ -63,6 +63,7 @@
 |[Reveal常用技巧](http://revealapp.com/blog/reveal-common-tips-cn.html)|基于Reveal 1.6。
 |[《Exploring Apple’s 3D Touch》](https://medium.com/@rknla/exploring-apple-s-3d-touch-f5980ef45af5#.vbnhcafrl)|介绍和分析了 3D Touch 中各 API 的使用方式和注意点。
 |[正则表达式30分钟入门](http://deerchao.net/tutorials/regex/regex.htm?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|
+|[17个提升iOS开发效率的必用工具](http://www.cocoachina.com/ios/20151110/14102.html)|可是当我们的开发技巧已经到达一定高度时，如何让开发效率更上一层楼呢？答案就是使用开发工具！在这篇文章中，我会向你介绍一些帮助我提升编码速度和工作效率的工具。|
 
 
 
