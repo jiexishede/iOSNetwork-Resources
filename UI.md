@@ -33,7 +33,8 @@
 |[mamaral/Neon](https://github.com/mamaral/Neon)|A powerful Swift programmatic UI layout framework.
 |[如何制作一个炫酷好玩的爆炸效果](https://medium.com/app-coder-io/27-places-to-learn-ios-development-best-ones-b1bcfb48efab)
 |[ninjaprox/NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)|NVActivityIndicatorView is a collection of nice loading animations.<br>This is original a fork from DGActivityIndicatorView, inspired by Loaders.css, written in Swift with full implementation of animations.<br>You can also find Objective-C version of this here.
-
+|[yoavlt/LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)|** 类似 水珠的粘连到分离的动画效果 ,可用来做选项卡,类似 美团 选项卡.**|
+|[adow/CardsAnimationDemo](https://github.com/adow/CardsAnimationDemo)| swift实现卡片前后反转效果[介绍博客](http://swiftcn.io/topics/64?f=w)
 
 
 ##<a name="interface"/>常见UI
