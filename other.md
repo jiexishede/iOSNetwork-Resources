@@ -83,6 +83,7 @@
 |[构建iOS稳定应用架构时方案选择的思考，主要涉及工程结构，数据流思想和代码规范](http://www.starming.com/index.php?v=index&view=83)|构建iOS稳定应用架构时方案选择的思考，主要涉及工程结构，数据流思想和代码规范 
 |[《禅与 Objective-C 编程艺术》](http://objc-zen-book.books.yourtion.com/)|一本介绍如何设计和构建优秀的代码的Objective-C 编程艺术图书。
 |[iOS开发中的Git流程](http://www.jianshu.com/p/87e34894a9f9?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)|http://www.jianshu.com/p/87e34894a9f9?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo
+|[iOS/OS X内存管理（一）：基本概念与原理](http://www.csdn.net/article/2015-11-12/2826198)|内存管理是在程序需要时程序员分配一段内存空间，而当使用完之后将它释放。如果对内存资源使用不当，有时不仅会造成内存资源浪费，甚至会导致程序crach。|
 
 
 ## <a name="Interview"/>面试

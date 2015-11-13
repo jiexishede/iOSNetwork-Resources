@@ -52,7 +52,8 @@
 |[印象笔记交互效果的实现](http://www.jianshu.com/p/dfb857763942)|用swift实现了印象笔记的两个交互|
 |[自己动手造无限循环图片轮播](https://autolayout.club/2015/10/29/自己动手造无限循环图片轮播/)| swift 版 无限轮播|
 |[ibireme/YYWebImage](https://github.com/ibireme/YYWebImage)|**Asynchronous image loading framework. 此人在每个轮子都可以看看,研究**
-
+|[轻松学习之四－－最简化原生效果集成UITableViewCell左滑多个按钮
+](http://www.jianshu.com/p/5bb91ccc07e3?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)|tableViewCell 左滑.. 系统大于 ios8 已经支持了 ,此文章可参考|
 
 
 
