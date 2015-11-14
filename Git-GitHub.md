@@ -32,6 +32,7 @@
 |[一个优秀的提交应该包含什么?](http://blog.jobbole.com/42515/)| 一个好的提交是什么样的..
 |[Git--团队开发必备神器](http://www.kuqin.com/shuoit/20150820/347699.html)|作者花了两天时间专门搞了一下git，整理一下分享给大家。
 |[git学习总结](http://yalishizhude.github.io/2015/09/16/git/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|
+|[Git 常用命令和 Git Flow 梳理](http://www.jianshu.com/p/fa83b6858d52)|一些常用的 git 基础命令和 git flow，当然也很重要的，过程中作者在 Github 上建了一个模拟的 Demo 用来熟悉 git flow。|
 |[图解Git相关工作流](http://www.jianshu.com/p/08ad7e427fec)|本文推荐了一个 git学习地址[learnGitBranching](learnGitBranching) 
 |[ GitHub 识别语言的规则和自定义](https://help.github.com/articles/my-repository-is-marked-as-the-wrong-language/)| 假如你的GitHub项目的语言识别错误可看此|
 |[Git与GitHub你不知道的十件事](http://owenou.com/2012/01/13/ten-things-you-didnt-know-git-and-github-could-do.html)|Git 和 GitHub都是非常强大的工具。即使你已经使用他们很长时间，你也很有可能不知道每个细节。我整理了Git和GitHub可能提高日常效率的10个常用技巧。
