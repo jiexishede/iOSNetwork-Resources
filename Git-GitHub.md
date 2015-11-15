@@ -51,5 +51,5 @@
 |[Start Learning Git and GitHub Today with Self-Paced Training](https://github.com/blog/2083-start-learning-git-and-github-today-with-self-paced-training)|GitHub 官方实践教程|
 |[Git & GitHub 入门官方视频 + 中文字幕](http://www.nowcoder.com/courses/2?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|Git是一个分布式的版本控制系统，最初由Linus Torvalds编写，用作Linux内核代码的管理。在推出后，Git在其它项目中也取得了很大成功，尤其是在Ruby社区中。目前，包括Rubinius、Merb和Bitcoin在内的很多知名项目都使用了Git。GitHub 使用 Git 作为版本控制系统（version control system）提供在线源码托管的服务。同时是一个有社交功能的开发者社区|
 |[GitHub企业版最佳安全实践](https://github.com/blog/2077-github-enterprise-security-best-practices)|GitHub企业版最佳安全实践
-|[iOS开发中的Git流程](http://www.jianshu.com/p/87e34894a9f9?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)|教最实用的，多人开发到底怎么用Git。
+|[iOS开发中的Git流程](http://www.jianshu.com/p/87e34894a9f9?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)|教最实用的，多人开发到底怎么用Git。作者说可以降低冲突出现的概率|
 |[GitHub Gist 指南](http://group.jobbole.com/9655/)|开 发人员常常使用Gist记录他们的代码片段，但是Gist不仅仅是为极客和码农开发的，每个人都可以用到它。
