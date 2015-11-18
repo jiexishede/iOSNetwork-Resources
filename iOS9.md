@@ -14,6 +14,7 @@
 |[iOS 9 变化笔记](http://segmentfault.com/a/1190000003794595?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)|一些从iOS8过度到iOS9给我们带来的一些变化，及解决方法|
 |[iOS 9适配技巧（更新版）](http://www.cocoachina.com/ios/20150929/13598.html)|
 |[iOS 9 开发高级技巧](http://www.kuqin.com/shuoit/20150916/348106.html)|下文列出的就是如何加快速度适配 iOS 9 的绝妙建议。
+|[iOS 9 变化笔记](http://www.kuqin.com/shuoit/20150928/348309.html)|这里将介绍下我们日常开发一些从iOS8过度到iOS9给我们带来的一些变化，及解决方法|
 ###<a name="project"/> Project
 
 |  Address  |    Brief introduction 
