@@ -43,6 +43,7 @@
 |[Github资源整理](http://andrewliu.in/2015/02/24/Github%E8%B5%84%E6%BA%90%E6%95%B4%E7%90%86/)| 各种资源 |
 |[自学成才 16个非常优秀的在线教育网站](http://www.kuqin.com/shuoit/20150205/344743.html)| 万事俱备,只欠英语.....|
 |[国外程序员推荐的免费编程书籍资源](http://blog.jobbole.com/5200/)|
+|[国外优秀JavaScript资源推荐](http://www.kuqin.com/shuoit/20150123/344550.html)|
 
 ###<a name="other"/>其它
 
