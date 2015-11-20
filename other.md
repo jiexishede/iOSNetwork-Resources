@@ -48,7 +48,7 @@
 |[《Xcode7中你一定要知道的炸裂调试神技》](http://www.jianshu.com/p/70ed36cf8a98)|Xcode7中苹果为我们增加了两个重要的debug相关功能。了解之后觉得非常实用，介绍给大家。|
 ##<a name="performance"/> 性能
 |    文章 地址   |  简介 
-|:----------:|          |
+|:----------:|-------|        |
 |[性能调优](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques/blob/master/12-%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98/%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md)| 代码应该运行的尽量快，而不是更快 - 理查德  
 |[构建内存高效的应用](http://swift.gg/2015/09/21/building-memory-efficient-apps/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)| 学习提高应用性能的小技巧
 |[OC各种遍历方法的效率比较](http://www.jianshu.com/p/8810b1bfb34e?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weibo)|OC通常有四种遍历方法，通常我们都是想到用啥就用啥，那么他们各自的效率到底是如何呢？下面让我们来测试一下。
@@ -58,11 +58,11 @@
 
 ## 实用
 |   文章地址| 简介    
-|:------:|-----
+|:------:|-----|
 |[facebook/FBSimulatorControl](https://github.com/facebook/FBSimulatorControl)  | Facebook开源的能够管理、控制iOS 模拟器的库。可以同时在一台机器上起多个模拟器。 
 |[Reveal常用技巧](http://revealapp.com/blog/reveal-common-tips-cn.html)|基于Reveal 1.6。
 |[《Exploring Apple’s 3D Touch》](https://medium.com/@rknla/exploring-apple-s-3d-touch-f5980ef45af5#.vbnhcafrl)|介绍和分析了 3D Touch 中各 API 的使用方式和注意点。
-|[正则表达式30分钟入门](http://deerchao.net/tutorials/regex/regex.htm?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|
+|[正则表达式30分钟入门](http://deerchao.net/tutorials/regex/regex.htm?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|      
 |[17个提升iOS开发效率的必用工具](http://www.cocoachina.com/ios/20151110/14102.html)|可是当我们的开发技巧已经到达一定高度时，如何让开发效率更上一层楼呢？答案就是使用开发工具！在这篇文章中，我会向你介绍一些帮助我提升编码速度和工作效率的工具。|
 
 
@@ -82,7 +82,7 @@
 |[How to make your code self-documenting](http://codeutopia.net/blog/2014/12/01/how-to-make-your-code-self-documenting/)|如何提高代码可读性？一个技巧是，将复杂的表达式封装为一个函数，并起一个有意义的函数名
 |[构建iOS稳定应用架构时方案选择的思考，主要涉及工程结构，数据流思想和代码规范](http://www.starming.com/index.php?v=index&view=83)|构建iOS稳定应用架构时方案选择的思考，主要涉及工程结构，数据流思想和代码规范 
 |[《禅与 Objective-C 编程艺术》](http://objc-zen-book.books.yourtion.com/)|一本介绍如何设计和构建优秀的代码的Objective-C 编程艺术图书。
-|[iOS开发中的Git流程](http://www.jianshu.com/p/87e34894a9f9?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)|http://www.jianshu.com/p/87e34894a9f9?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo
+|[iOS开发中的Git流程](http://www.jianshu.com/p/87e34894a9f9?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)|
 |[iOS/OS X内存管理（一）：基本概念与原理](http://www.csdn.net/article/2015-11-12/2826198)|内存管理是在程序需要时程序员分配一段内存空间，而当使用完之后将它释放。如果对内存资源使用不当，有时不仅会造成内存资源浪费，甚至会导致程序crach。|
 
 
