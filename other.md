@@ -54,6 +54,8 @@
 |[OC各种遍历方法的效率比较](http://www.jianshu.com/p/8810b1bfb34e?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weibo)|OC通常有四种遍历方法，通常我们都是想到用啥就用啥，那么他们各自的效率到底是如何呢？下面让我们来测试一下。
 |[一次TableView性能优化经历](http://yyny.me/ios/%E4%B8%80%E6%AC%A1TableView%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%BB%8F%E5%8E%86/)| UITableView的优化要注意的点
 |[iOS高性能图片架构与设计](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207840007&idx=1&sn=ce09553e5774f5581c696b5e28f0c7e8#rd)|QQ空间终端开发团队
+|[iOS/OS X内存管理（一）：基本概念与原理](http://www.csdn.net/article/2015-11-12/2826198)|内存管理是在程序需要时程序员分配一段内存空间，而当使用完之后将它释放。如果对内存资源使用不当，有时不仅会造成内存资源浪费，甚至会导致程序crach。|
+|[iOS/OS X 内存管理(2)：借助工具解决内存问题](http://www.jianshu.com/p/09c5141d4531)|
 
 
 ## 实用
@@ -83,7 +85,7 @@
 |[构建iOS稳定应用架构时方案选择的思考，主要涉及工程结构，数据流思想和代码规范](http://www.starming.com/index.php?v=index&view=83)|构建iOS稳定应用架构时方案选择的思考，主要涉及工程结构，数据流思想和代码规范 
 |[《禅与 Objective-C 编程艺术》](http://objc-zen-book.books.yourtion.com/)|一本介绍如何设计和构建优秀的代码的Objective-C 编程艺术图书。
 |[iOS开发中的Git流程](http://www.jianshu.com/p/87e34894a9f9?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)|
-|[iOS/OS X内存管理（一）：基本概念与原理](http://www.csdn.net/article/2015-11-12/2826198)|内存管理是在程序需要时程序员分配一段内存空间，而当使用完之后将它释放。如果对内存资源使用不当，有时不仅会造成内存资源浪费，甚至会导致程序crach。|
+
 
 
 ## <a name="Interview"/>面试
@@ -107,13 +109,14 @@
 |[看乔布斯是如何形象解释 OOP 的](http://blog.jobbole.com/93941/)|对于面向对象编程这个概念，至今为止我还未见过有人能比乔布斯诠释得更加透彻。乔布斯从来没有接受过正式的工程训练，但是他对于自己所做的和所说的都有非常清晰的思路，无论是技术、设计还是艺术
 |[专访百度知道iOS团队负责人孙源：代码强迫症的死实践派](http://www.csdn.net/article/2015-10-08/2825853-mdcc-interview-sunny)|CSDN专访百度知道iOS团队负责人孙源(我就叫Sunny怎么了)，请他分享了自己拥有代码强迫症和完美主义妄想症的死实践派style，对于iOS开发技术与开源的探究心得，以及如何成为一个靠谱的iOS程序员。
 |[专访趣拼周楷雯：文艺程序员眼中的Swi](http://www.infoq.com/cn/news/2015/10/kevinzhow-interview)|拥有多年iOS开发经验，在Github上拥有超过5000 star的开源项目PNChart，但同时他还自学设计，钢琴，撰写并出版了横跨编程、设计、营销的电子书《Producter》，还为女友录制了给女朋友的iOS开发视频教程，他还创立了自己的公司，电子书和视频课程是他在创业工作之余写出来的。
+|[关于Git的主要维护者滨野纯的访谈](http://blog.jobbole.com/48849/)|优秀程序员的品质:坚持,审美观,沟通能力|
 
 
 ## 视频教程连载
 |   地址 |    简介|
 |:-----:|---
 |[给女朋友的 iOS 开发教程 iOS With Girlfriend](https://ruby-china.org/topics/27549)|来自国内开发者 Kevin 的一个系列视频教程，从设计入手讲述如何开发一个 iOS 应用。|
-|[关于Git的主要维护者滨野纯的访谈](http://blog.jobbole.com/48849/)|优秀程序员的品质:坚持,审美观,沟通能力|
+
 
 
 ##<a name="study"/>   学习指导
