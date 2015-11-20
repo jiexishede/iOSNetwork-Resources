@@ -33,7 +33,7 @@
 |   文章地址| 简介    
 |:------:|-----
 |[iOS代码实践总结](http://blog.csdn.net/colorapp/article/details/48597267)|   前几个月完成对MVVM/RAC的学习之后，最近一直在默默地对项目代码进行重构，
-|[微信iOS9 适配总结]](http://gold.xitu.io/entry/562dde9e00b0acaa4772b497)| 大厂,何必多说|
+|[微信iOS9 适配总结](http://gold.xitu.io/entry/562dde9e00b0acaa4772b497)| 大厂,何必多说|
 
 ## 效率相关
 |   文章地址| 简介    
@@ -125,7 +125,7 @@
 |[27 places to learn iOS development. Best ones.](https://medium.com/app-coder-io/27-places-to-learn-ios-development-best-ones-b1bcfb48efab)|So you have decided that you want to learn iOS development, but you have no idea where to start?Less talk, more action. The first and the best place to learn iOS development is…
 |[程序员终极目标｜作为一个码妓，我是如何靠码字来使我的接客率翻番的](http://www.kuqin.com/shuoit/20150820/347694.html)|文字既有价值，又有力量。写作可以提供巨大的价值。想想那本你最喜欢的书，那本曾经改变了你的世界观、让你的生活变得比以前更好的书吧。
 |[在 30 天内，从零开始学习 Swift](http://www.kuqin.com/shuoit/20150915/348076.html)|适合 英文功底身后的人 |
-
+|[iOS 事件处理机制与图像渲染过程](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400417748&idx=1&sn=0c5f6747dd192c5a0eea32bb4650c160&scene=0#wechat_redirect)|**微信团队新文《iOS事件处理机制与图像渲染过程》**
 
 ##<a name="project"/>  开源项目
 |   地址  |  简介  |
