@@ -10,6 +10,7 @@
 |[Git 使用规范流程](http://mp.weixin.qq.com/s?__biz=MjM5OTMxMzA4NQ==&mid=217946150&idx=2&sn=cd46bb241e29823b9f409aa8fd83b5ac)|团队开发中，遵循一个合理、清晰的Git使用流程，是非常重要的。否则，每个人都提交一堆杂乱无章的commit，项目很快就会变得难以协调和维护。
 |[git命令&nbsp;新学者备用（转载)](http://weibo.com/p/2304186f1093bd0102vqc3)| 一些常用到的指令,包括分支,远程,GitHub的使用
 |[***廖雪峰Git教程(推荐)***](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)|会让你成为Git用户，不会让你成为Git专家。很多Git命令只有那些专家才明白，但我保证这些命令可能你一辈子都不会用到。一旦你真的非用不可了，到时候再自行Google或者请教专家
+|[猴子都能懂的Git入门](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)|  图文并茂  |
 |[Git指令大全图](http://www.colorfulcat.xyz/2015/09/06/git-command/)|一个git命令整理的思维导图
 |[How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 |[代码分支管理指南](http://open.leancloud.cn/git-branch-guide.html)| 作者认为涉及团队协作的方面需要有一些一致的规范
@@ -55,3 +56,4 @@
 |[GitHub企业版最佳安全实践](https://github.com/blog/2077-github-enterprise-security-best-practices)|GitHub企业版最佳安全实践
 |[iOS开发中的Git流程](http://www.jianshu.com/p/87e34894a9f9?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)|教最实用的，多人开发到底怎么用Git。作者说可以降低冲突出现的概率|
 |[GitHub Gist 指南](http://group.jobbole.com/9655/)|开 发人员常常使用Gist记录他们的代码片段，但是Gist不仅仅是为极客和码农开发的，每个人都可以用到它。
+|[Git版本控制与工作流](http://weibo.com/p/1001603911213774967691)|
