@@ -88,6 +88,7 @@
 |[12207480/TYAttributedLabel](https://github.com/12207480/TYAttributedLabel)|强大的属性文本控件(无需了解CoreText)，支持图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示
 |[steipete/PSTAlertController](https://github.com/steipete/PSTAlertController)|**API similar to UIAlertController, backwards compatible to iOS 7. Will use the new shiny API when you run iOS 8. 此人多个经典轮子..**
 |[zhengjinghua/StitchingImage](https://github.com/zhengjinghua/StitchingImage)|iOS 仿微信群组封面拼接控件, 直接拖进项目就可使用, 支持 CocoaPods 安装. WeChat-like, drop-in version, stitching mage
+|[EnjoySR/ESRefreshControl](https://github.com/EnjoySR/ESRefreshControl)|仿新浪微博、百度外卖、网易新闻下拉刷新样式Demo|
 
 
 ##<a name="AutoLayout"/>AutoLayout
