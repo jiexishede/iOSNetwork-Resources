@@ -36,6 +36,8 @@
 |[yoavlt/LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)|** 类似 水珠的粘连到分离的动画效果 ,可用来做选项卡,类似 美团 选项卡.**|
 |[adow/CardsAnimationDemo](https://github.com/adow/CardsAnimationDemo)| swift实现卡片前后反转效果[介绍博客](http://swiftcn.io/topics/64?f=w)
 |[Animatious/awesome-animation](https://github.com/Animatious/awesome-animation)|**~~A great list of open sourced UI Motion Library produced by Animatious Group.~~**
+|[schneiderandre/popping](https://github.com/schneiderandre/popping)|A collection of animation examples for iOS apps.**Popping is a collection of animation examples for iOS apps. Almost all of them were created using the Facebook pop animation engine. It should inspire you to create some great looking UIs to delight people who use your app.**|
+|[facebook/pop](https://github.com/facebook/pop)|**An extensible iOS and OS X animation library, useful for physics-based interactions.  facebook出品 动画  库**
 
 ##<a name="interface"/>常见UI
 ###文章
@@ -89,6 +91,7 @@
 |[steipete/PSTAlertController](https://github.com/steipete/PSTAlertController)|**API similar to UIAlertController, backwards compatible to iOS 7. Will use the new shiny API when you run iOS 8. 此人多个经典轮子..**
 |[zhengjinghua/StitchingImage](https://github.com/zhengjinghua/StitchingImage)|iOS 仿微信群组封面拼接控件, 直接拖进项目就可使用, 支持 CocoaPods 安装. WeChat-like, drop-in version, stitching mage
 |[EnjoySR/ESRefreshControl](https://github.com/EnjoySR/ESRefreshControl)|仿新浪微博、百度外卖、网易新闻下拉刷新样式Demo|
+|[leichunfeng/WXTabBarController](https://github.com/leichunfeng/WXTabBarController)|在系统 UITabBarController 的基础上实现安卓版微信 TabBar 的滑动切换功能
 
 
 ##<a name="AutoLayout"/>AutoLayout
