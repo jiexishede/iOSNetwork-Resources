@@ -49,6 +49,7 @@
 |[Git服务器搭建全过程](http://www.codeceo.com/article/git-server-setup.html#0-tsina-1-75031-397232819ff9a47a7b7e80a40613cfe1)|GitHub是一个免费托管开源代码的Git服务器，如果我们不想公开项目的源代码，又不想付费使用，那么我们可以自己搭建一台Git服务器。
 |[为什么你应该深入Github](https://www.phodal.com/blog/why-you-should-work-hard-with-github/)|方便工作,获得一份工作,扩大人脉,其他
 |[六百字读懂 Git](http://segmentfault.com/a/1190000002514702?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)|来自 Hacker School 的 Mary Rose Cook 实现了一个纯 JavaScript 写就的 Git：Gitlet，包含了最主要的一些命令。这个项目一是为了了解 Git 内部原理，二是希望写一篇深入浅出解释 Git 核心概念的短文。学习一件东西的原理最好的方法就是去亲自实现它，而设计精巧的 Git 核心功能代码也不过 300 行。这就是这篇精巧的小文：[Git in 600 words](http://maryrosecook.com/blog/post/git-in-six-hundred-words)，相应的代码在 [Github](https://github.com/maryrosecook/gitlet) 上。短文很有趣，思路清晰也足够深入，值得一看。
+|[一张git整理图](http://finalshares.cn/attachment/1509/thread/95_80_cbcb426e1ba4faf.jpg)|git 基本使用思维导图|
 |[纯干货：如何使用git和github管理自己的项目？](http://mp.weixin.qq.com/s?__biz=MzA4NDIzNzMwMw==&mid=210307235&idx=1&sn=7488270941cee779f48796f1d3f13c04&3rd=MzA3MDU4NTYzMw==&scene=6#rd)|一.是找到全面的、详细的、生动的、高质量的教程。廖雪峰的git教程是我目前找到的最好的一个。之前找到的讲解git用法的书《pro git》现在看来是没有必要再看了！<br>二.就是自己立即去学，其实没什么难的，不要被貌似难的表象、概念唬住。<br>三.是最好能自己做简单的、系统的整理，方便自己随时再回来查看、复习、参考，不至于出现这样的情况：学完以后过一段时间之后再用，但是这时候发现忘了差不多了！<br>四.就是立即动手去用，否则学完很快就忘了。
 |[Github 365天: 给你一年的时间，你会怎样去提高你的水平](https://www.phodal.com/blog/github-365-days-review/)|给你一年的时间，你会怎样去提高你的水平？？？同样告诉你作者认为编程领域的专家是什么样的
 |[Start Learning Git and GitHub Today with Self-Paced Training](https://github.com/blog/2083-start-learning-git-and-github-today-with-self-paced-training)|GitHub 官方实践教程|
