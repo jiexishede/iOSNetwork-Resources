@@ -22,6 +22,7 @@
 |[iOS开发系列–让你的应用“动”起来](http://ios.jobbole.com/82488/) | 在iOS中随处都可以看到绚丽的动画效果，实现这些动画的过程并不复杂， 通过核心动画创建基础动画、关键帧动画、动画组、转场动画......|
 |[如何制作一个炫酷好玩的爆炸效果](http://xxycode.com/ru-he-zhi-zuo-ge-xuan-ku-hao-wan-de-bao-zha-xiao-guo-2/)|
 |[利用UIWebView打造一个炫酷的视频背景视图（OC & Swift）](http://www.cocoachina.com/ios/20151023/13860.html)
+|[SCCatWaitingHUD的Objc代码实现](SCCatWaitingHUD的Objc代码实现)| 一个猫看老鼠的加载动画的实现过程,内附githubDemo|
 
 
 
