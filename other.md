@@ -5,6 +5,7 @@
 * [知名人士访谈](#people)
 * [学习指导](#study)
 * [开源项目](#project)
+ 
 
 ##
 
@@ -28,12 +29,16 @@
 |[手把手教学：在iOS 8中使用Cocoapods](http://www.csdn.net/article/2015-09-25/2825798-cocoapods-tutorial-ios8-swift)|Cocoapods是iOS应用的包管理工具，它简化了第三方库的导入并帮助开发者处理库之间的依赖关系。本文主要介绍了如何在iOS 8中安装Cocoapods，以及如何使用Cocoapods导入FontBlaster这个第三方库。|
 |[iOS远端推送部署详解](http://hechen.info/2015/07/30/iOS-Push-Notification/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|如何进行 iOS 推送的证书生成流程以及代码实现
 |[Mock工具](http://weibo.com/p/1001603892825082184455)|单元测试的时候用到Mock工具来模拟这些外部依赖的对象，来完成单元测试
+
+
+
 ##项目实践总结
 
 |   文章地址| 简介    
 |:------:|-----
 |[iOS代码实践总结](http://blog.csdn.net/colorapp/article/details/48597267)|   前几个月完成对MVVM/RAC的学习之后，最近一直在默默地对项目代码进行重构，
-|[微信iOS9 适配总结](http://gold.xitu.io/entry/562dde9e00b0acaa4772b497)| 大厂,何必多说|
+|[微信iOS9 适配总结](http://gold.xitu.io/entry/562dde9e00b0acaa4772b497)| 大厂,何必多说
+
 
 ## 效率相关
 |   文章地址| 简介    
@@ -41,14 +46,20 @@
 |[浅谈如何提高编程效率？](http://www.kuqin.com/shuoit/20150819/347681.html)|如何提高编程效率内容。
 |[浅谈程序的核心——复杂度](http://www.cocoachina.com/game/20151013/13725.html)|复杂度的要点所在就是程序给大脑带来的负担，它等同于程序员提升和开发程序的难易程度，这个负担随着模块的复杂度大约是平方级数增长。如果负担很低，那么一段程序的就容易控制，程序员就容易提升程序的质量。
 
+
+
 ### 调试
 |   文章地址| 简介    
 |:------:|-----
 |[小黄鸭调试法，每个程序员都要知道的](http://blog.jobbole.com/85719/)|在调试代码的时候会在桌上放上这只小黄鸭，然后详细地向鸭子解释每行代码。
-|[《Xcode7中你一定要知道的炸裂调试神技》](http://www.jianshu.com/p/70ed36cf8a98)|Xcode7中苹果为我们增加了两个重要的debug相关功能。了解之后觉得非常实用，介绍给大家。|
+|[《Xcode7中你一定要知道的炸裂调试神技》](http://www.jianshu.com/p/70ed36cf8a98)|Xcode7中苹果为我们增加了两个重要的debug相关功能。了解之后觉得非常实用，介绍给大家。
+
+
+
+
 ##<a name="performance"/> 性能
 |    文章 地址   |  简介 
-|:----------:|-------|        |
+|:----------:|-------|       
 |[性能调优](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques/blob/master/12-%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98/%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md)| 代码应该运行的尽量快，而不是更快 - 理查德  
 |[构建内存高效的应用](http://swift.gg/2015/09/21/building-memory-efficient-apps/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)| 学习提高应用性能的小技巧
 |[OC各种遍历方法的效率比较](http://www.jianshu.com/p/8810b1bfb34e?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weibo)|OC通常有四种遍历方法，通常我们都是想到用啥就用啥，那么他们各自的效率到底是如何呢？下面让我们来测试一下。
@@ -70,7 +81,7 @@
 
 
 
-|   项目地址 |      |
+|   项目地址 |      
 |:-----:|---
 |[iOS 蓝牙经典项目](https://github.com/coolnameismy/BabyBluetooth)|
 |[开源分享登录项目openshare](https://github.com/100apps/openshare)|
@@ -90,19 +101,31 @@
 
 
 ## <a name="Interview"/>面试
-|   地址 |     简介  |
-|:-----:|---
-|[iOS面试题集锦](https://github.com/ChenYilong/iOSInterviewQuestions)|  面试题目，并细心地给出了每个题目的参考答案。可以说如果你能把这些问题都答上个七七八八，可以说明你是具有担任 iOS 开发的高级职位的能力的。
-|[Swift Interview Questions and Answers](http://www.raywenderlich.com/110982/swift-interview-questions-answers)|wift 从入门到高级的面试题目及答案，对于 Swift 的必备的基本概念考察还是比较完善的。**_因为 Swift 语言的特性，有些问题是颇有难度的。另外，想分享一句话给正在或者想要学习 Swift 的开发者：学习一门语言最快的途径就是去使用它，而不是不停看书或者文档。有些朋友会陷入越看书越绝望的情境中，诚然书籍很重要，但是我们学习一门程序语言的目的最终还是去使用它，也只有在实际使用时，才能真正学会这门语言。_**
-|[Swift 面试题及其答案](http://ios.jobbole.com/82445/)|Swift的知识浩如烟海——但是怎么测试你掌握了多少？在这篇文章中，我和这个raywenderlich.com网站的教学团队共同写了一个Swift面试问题列表。
-|[面试心得与总结---BAT、网易、蘑菇街](http://www.nowcoder.com/discuss/3043?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|
-|[面试官究竟如何考察求职者的「学习能力」？求职者在平时又该如何培养这种能力？](http://www.zhihu.com/question/20107788?utm_campaign=official_account&utm_source=weibo&utm_medium=zhihu&utm_content=question)| 知乎上关于面试时面试官考察应聘人"学习能力"的讨论
-|[为什么面试总喜欢考算法题？](http://www.kuqin.com/shuoit/20150820/347696.html)
-|[iOS面试题汇总](http://t.cn/Rykb8MC)|iOS 面试题  汇总
-|[只有程序员看的懂面试圣经｜如何拿下编程面试](http://www.kuqin.com/shuoit/20151013/348477.html)|面试获得成功的六个步骤
-|[这些 iOS 面试基础题目，你都深入了解吗?](http://www.cocoachina.com/ios/20151106/14069.html)|题目来自博客：面试百度的记录|
-|[这8种武器点亮程序员的个人品牌](http://www.cocoachina.com/programmer/20151113/14024.html)|作为程序员，如果能有自己的身份和品牌，那是最好不过了，你走到哪里，不管是找工作还是参加活动，都能以某种方式被人记住。所以，个人品牌，对于程序员来讲也是非常重要的。|
 
+[iOS面试题集锦](https://github.com/ChenYilong/iOSInterviewQuestions):  面试题目，并细心地给出了每个题目的参考答案。可以说如果你能把这些问题都答上个七七八八，可以说明你是具有担任 iOS 开发的高级职位的能力的。
+
+[Swift Interview Questions and Answers](http://www.raywenderlich.com/110982/swift-interview-questions-answers):wift 从入门到高级的面试题目及答案，对于 Swift 的必备的基本概念考察还是比较完善的。**_因为 Swift 语言的特性，有些问题是颇有难度的。另外，想分享一句话给正在或者想要学习 Swift 的开发者：学习一门语言最快的途径就是去使用它，而不是不停看书或者文档。有些朋友会陷入越看书越绝望的情境中，诚然书籍很重要，但是我们学习一门程序语言的目的最终还是去使用它，也只有在实际使用时，才能真正学会这门语言。_**
+
+[Swift 面试题及其答案](http://ios.jobbole.com/82445/):Swift的知识浩如烟海——但是怎么测试你掌握了多少？在这篇文章中，我和这个raywenderlich.com网站的教学团队共同写了一个Swift面试问题列表。
+
+[面试心得与总结---BAT、网易、蘑菇街](http://www.nowcoder.com/discuss/3043?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[面试官究竟如何考察求职者的「学习能力」？求职者在平时又该如何培养这种能力？](http://www.zhihu.com/question/20107788?utm_campaign=official_account&utm_source=weibo&utm_medium=zhihu&utm_content=question): 知乎上关于面试时面试官考察应聘人"学习能力"的讨论
+
+
+[为什么跳槽加薪会比内部调薪要高？](https://www.zhihu.com/question/20564224) :一个公司是否应该鼓励现任员工更多的展现自己的价值？这样做的成本和招聘外来人员的成本哪个更大？成本都有什么？
+
+[为什么面试总喜欢考算法题？](http://www.kuqin.com/shuoit/20150820/347696.html)
+
+[iOS面试题汇总](http://t.cn/Rykb8MC):iOS 面试题  汇总
+
+[只有程序员看的懂面试圣经:如何拿下编程面试](http://www.kuqin.com/shuoit/20151013/348477.html):面试获得成功的六个步骤
+
+[这些 iOS 面试基础题目，你都深入了解吗?](http://www.cocoachina.com/ios/20151106/14069.html):题目来自博客：面试百度的记录|
+
+[这8种武器点亮程序员的个人品牌](http://www.cocoachina.com/programmer/20151113/14024.html):作为程序员，如果能有自己的身份和品牌，那是最好不过了，你走到哪里，不管是找工作还是参加活动，都能以某种方式被人记住。所以，个人品牌，对于程序员来讲也是非常重要的。
+
+[程序员看的懂面试圣经](http://www.jianshu.com/p/d34c335a6cfd):指南无法确保你找到工作，但它能帮助你尽最大可能给面试官留下一个好印象。
 
 ##<a name="people"/> iOS知名人士访谈
 |   地址 |    简介|

@@ -24,6 +24,7 @@
 |[如何在 Git 中使用撤消操作](http://gold.xitu.io/entry/561b189e60b2f3a9cd2a124b)|版本控制系统的一个好处就是你可以轻易地撤销之前错误的操作。
 |[工作区,暂存区,版本库](http://www.worldhello.net/2010/11/30/2166.html)|工作区,暂存区和版本库
 |[写好 Git Commit 信息的 7 个建议](http://blog.jobbole.com/92713/)|一个好的日志是一个优美和有用的东西，一旦日志处理的好，那么git blame、revert、rebase、log、shortlog 和其它子命令都将发挥它们的作用。查看别人的提交和 pull 请求是值得的，而且可以随时独立完成
+|[七个你无法忽视的Git使用技巧](http://m.oschina.net/news/68437/seven-git-hacks-you-just-cannot-ignore)|与其他技术相比，Git应该拯救了更多开发人员的饭碗。只要你经常使用Git保存自己的工作，你就一直有机会可以将代码退回到之前的状态，因此就可以挽回那些你深夜里迷迷糊糊犯下的错误。|
 |[A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)|
 |[Git 速查表大全](http://pan.baidu.com/s/1ntIGTQh)|
 |[Git常用命令备忘](http://blogread.cn/it/article/6282?f=wb)|看完此文之后,文末有推荐git进阶相关文章|
