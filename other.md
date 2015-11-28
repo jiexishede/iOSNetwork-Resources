@@ -8,9 +8,8 @@
  
 
 ##
-
 |   文章地址|  简介
-|:------:|-----
+|------|-----
 |[iOS 警告收录及科学快速的消除方法](http://www.cocoachina.com/ios/20150914/13287.html)|
 |[CocoaPods的简介及安装和使用](http://blog.csdn.net/eduora_meimei/article/details/44410373)|
 |[使用Cocoapods创建私有podspec](http://blog.wtlucky.com/blog/2015/02/26/create-private-podspec/)|
@@ -35,14 +34,14 @@
 ##项目实践总结
 
 |   文章地址| 简介    
-|:------:|-----
+|------|-----
 |[iOS代码实践总结](http://blog.csdn.net/colorapp/article/details/48597267)|   前几个月完成对MVVM/RAC的学习之后，最近一直在默默地对项目代码进行重构，
 |[微信iOS9 适配总结](http://gold.xitu.io/entry/562dde9e00b0acaa4772b497)| 大厂,何必多说
 
 
 ## 效率相关
 |   文章地址| 简介    
-|:------:|-----
+|------|-----
 |[浅谈如何提高编程效率？](http://www.kuqin.com/shuoit/20150819/347681.html)|如何提高编程效率内容。
 |[浅谈程序的核心——复杂度](http://www.cocoachina.com/game/20151013/13725.html)|复杂度的要点所在就是程序给大脑带来的负担，它等同于程序员提升和开发程序的难易程度，这个负担随着模块的复杂度大约是平方级数增长。如果负担很低，那么一段程序的就容易控制，程序员就容易提升程序的质量。
 
@@ -50,7 +49,7 @@
 
 ### 调试
 |   文章地址| 简介    
-|:------:|-----
+|------|-----
 |[小黄鸭调试法，每个程序员都要知道的](http://blog.jobbole.com/85719/)|在调试代码的时候会在桌上放上这只小黄鸭，然后详细地向鸭子解释每行代码。
 |[《Xcode7中你一定要知道的炸裂调试神技》](http://www.jianshu.com/p/70ed36cf8a98)|Xcode7中苹果为我们增加了两个重要的debug相关功能。了解之后觉得非常实用，介绍给大家。
 
@@ -71,13 +70,14 @@
 
 ## 实用
 |   文章地址| 简介    
-|:------:|-----|
+|------|-----
 |[facebook/FBSimulatorControl](https://github.com/facebook/FBSimulatorControl)  | Facebook开源的能够管理、控制iOS 模拟器的库。可以同时在一台机器上起多个模拟器。 
 |[Reveal常用技巧](http://revealapp.com/blog/reveal-common-tips-cn.html)|基于Reveal 1.6。
 |[《Exploring Apple’s 3D Touch》](https://medium.com/@rknla/exploring-apple-s-3d-touch-f5980ef45af5#.vbnhcafrl)|介绍和分析了 3D Touch 中各 API 的使用方式和注意点。
 |[正则表达式30分钟入门](http://deerchao.net/tutorials/regex/regex.htm?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|      
 |[17个提升iOS开发效率的必用工具](http://www.cocoachina.com/ios/20151110/14102.html)|可是当我们的开发技巧已经到达一定高度时，如何让开发效率更上一层楼呢？答案就是使用开发工具！在这篇文章中，我会向你介绍一些帮助我提升编码速度和工作效率的工具。|
 |[如何提高移动端注册登录体验](http://www.ui.cn/detail/71046.html)|有多少用户愿意注册登录，决定了一款产品的活跃度。我们来谈一谈如何提高移动端的登录体验。|
+
 
 
 
@@ -90,7 +90,7 @@
 
 ##<a name="code"/> 代码质量
 |   文章地址 |    简介  |
-|:-----:|---|
+|------|-----
 |[10 Ways to Write Cleaner Code](http://blog.codeschool.io/2015/09/29/10-ways-to-write-cleaner-code/)|对整洁代码的追求应该是永无止境的，这篇文章并不是专门针对 iOS 开发的，而是介绍了十种对于一般的开发中应该考虑遵守的代码规范。读者可以逐条对比自己日常工作中的习惯来看看，有则改之，无则加勉，以求写出更漂亮的代码。
 |[写让别人能读懂的代码](http://www.kuqin.com/shuoit/20150930/348355.html)|“复杂的代码往往都是新手所写，只有经验老道的高手才能写出简单，富有表现力的代码”
 |[How to make your code self-documenting](http://codeutopia.net/blog/2014/12/01/how-to-make-your-code-self-documenting/)|如何提高代码可读性？一个技巧是，将复杂的表达式封装为一个函数，并起一个有意义的函数名
@@ -101,6 +101,7 @@
 
 
 ## <a name="Interview"/>面试
+
 
 [iOS面试题集锦](https://github.com/ChenYilong/iOSInterviewQuestions):  面试题目，并细心地给出了每个题目的参考答案。可以说如果你能把这些问题都答上个七七八八，可以说明你是具有担任 iOS 开发的高级职位的能力的。
 
@@ -129,7 +130,7 @@
 
 ##<a name="people"/> iOS知名人士访谈
 |   地址 |    简介|
-|:-----:|---
+|------|-----
 |[看乔布斯是如何形象解释 OOP 的](http://blog.jobbole.com/93941/)|对于面向对象编程这个概念，至今为止我还未见过有人能比乔布斯诠释得更加透彻。乔布斯从来没有接受过正式的工程训练，但是他对于自己所做的和所说的都有非常清晰的思路，无论是技术、设计还是艺术
 |[专访*YYKit*作者**郭曜源**：开源大牛是怎样炼成的](http://www.infoq.com/cn/news/2015/11/ibireme-interview)|**"Talk is cheap, show me the code"。** 刚刚 ibireme 在介绍自己学习方法的时候，提到了两点我认为非常关键，一个就是大量地阅读优秀项目的源代码，另一个就是自己动手实践来尝试。 [《iOS 开发如何提高》](http://blog.devtang.com/blog/2014/07/27/ios-levelup-tips/)，里面也提到阅读开源代码和多写代码。我感觉 ibireme 将这一点做到了极致，因此他在短短一年多的时间，就能够成长成为在业界有影响力的开源项目作者。
 |[专访百度知道iOS团队负责人孙源：代码强迫症的死实践派](http://www.csdn.net/article/2015-10-08/2825853-mdcc-interview-sunny)|CSDN专访百度知道iOS团队负责人孙源(我就叫Sunny怎么了)，请他分享了自己拥有代码强迫症和完美主义妄想症的死实践派style，对于iOS开发技术与开源的探究心得，以及如何成为一个靠谱的iOS程序员。
@@ -139,14 +140,14 @@
 
 ## 视频教程连载
 |   地址 |    简介|
-|:-----:|---
+|------|-----
 |[给女朋友的 iOS 开发教程 iOS With Girlfriend](https://ruby-china.org/topics/27549)|来自国内开发者 Kevin 的一个系列视频教程，从设计入手讲述如何开发一个 iOS 应用。|
 
 
 
 ##<a name="study"/>   学习指导
 |   地址  |  简介  |
-|:------:|------|
+|------|-----
 |[学习iOS开发前应该知道的](http://ios.jobbole.com/82222/?plg_nld=1&plg_auth=1&plg_nld=1&plg_dev=1&plg_uin=1&plg_usr=1&plg_vkey=1&plg_nld=1&from=singlemessage&plg_uin=1&plg_auth=1&plg_usr=1&plg_dev=1&plg_nld=1&plg_vkey=1&isappinstalled=0#rd)|作者分享经验，希望新手一路平坦走向成功。
 |[作为iOS开发者，怎能不follow这52个牛人](http://www.cocoachina.com/programmer/20150728/12788.html)|Twitter是个获得最新iOS开发技术和相关信息的好地方。如果你刚好有Twitter账户，可以关注以下为你推荐的该领域内的52个优秀人物。
 |[澳洲iOS沙龙视频](https://vimeo.com/melbournecocoa)|
@@ -157,7 +158,7 @@
 
 ##<a name="project"/>  开源项目
 |   地址  |  简介  |
-|:------:|------|
+|------|-----
 |[iOS及Mac开源项目和学习资料](http://codecloud.net/ios-mac-study-5155.html)|《iOS及Mac开源项目和学习资料【超级全面】》下面分享有关iOS及Mac开源项目和学习资料，超级全面哦，需要的小伙伴，赶紧收藏吧！
 |[JanzTam/MyGithubMark](https://github.com/JanzTam/MyGithubMark)|**Github上的iOS资料-个人记录（持续更新）**
 |[Coding/Coding-iOS](https://github.com/Coding/Coding-iOS)| **@Coding 官方开源的一个完整的 iOS 应用, 里面的很多代码结构, 模块功能划分, 第三方服务的集成使用等经验都非常值得开发者学习和参考**
