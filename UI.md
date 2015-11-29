@@ -57,6 +57,7 @@
 |[ibireme/YYWebImage](https://github.com/ibireme/YYWebImage)|**Asynchronous image loading framework. 此人在每个轮子都可以看看,研究**
 |[轻松学习之最简化原生效果集成UITableViewCell左滑多个按钮](http://www.jianshu.com/p/5bb91ccc07e3?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)|tableViewCell 左滑.. 系统大于 ios8 已经支持了 ,此文章可参考|
 |[Reveal+swiftUI开发](http://revealapp.com/blog/announcing-revert.html)|Reveal出品，一个项目教会你Swift的基本UI开发。配合reveal更加直观。Revert 是一款由 Reveal 官方推出的用于帮助开发者测试 Reveal 性能和精确度的 iOS 参考类应用, 当中包含了多种布局视图的使用, 也可作为 Swift 语言的学习项目官方介绍地址 [Github](https://github.com/revealapp/Revert/)|
+|[iOS 封装日历表](http://www.jianshu.com/p/41408417979a?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=qq)|内有github Demo
 
 
 

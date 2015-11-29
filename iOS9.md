@@ -15,6 +15,7 @@
 |[iOS 9适配技巧（更新版）](http://www.cocoachina.com/ios/20150929/13598.html)|
 |[iOS 9 开发高级技巧](http://www.kuqin.com/shuoit/20150916/348106.html)|下文列出的就是如何加快速度适配 iOS 9 的绝妙建议。
 |[iOS 9 变化笔记](http://www.kuqin.com/shuoit/20150928/348309.html)|这里将介绍下我们日常开发一些从iOS8过度到iOS9给我们带来的一些变化，及解决方法|
+|[iOS9 storyboad new feature](http://www.jianshu.com/p/c56c53660fc3?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=qq)|1. 分解一个单一的storyboard成多个storyboard,并通过 storyboard references 连接他们。<br>2. 通过 scene dock 给ViewController附加view。<br>3. 在storyboard上给 navigation bar添加多个button .
 ###<a name="project"/> Project
 
 |  Address  |    Brief introduction 
