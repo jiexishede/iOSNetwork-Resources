@@ -39,7 +39,7 @@
 |[Animatious/awesome-animation](https://github.com/Animatious/awesome-animation)|**~~A great list of open sourced UI Motion Library produced by Animatious Group.~~**
 |[schneiderandre/popping](https://github.com/schneiderandre/popping)|A collection of animation examples for iOS apps.**Popping is a collection of animation examples for iOS apps. Almost all of them were created using the Facebook pop animation engine. It should inspire you to create some great looking UIs to delight people who use your app.**|
 |[facebook/pop](https://github.com/facebook/pop)|**An extensible iOS and OS X animation library, useful for physics-based interactions.  facebook出品 动画  库**
-|[AugustRush/ARAnimation](https://github.com/AugustRush/ARAnimation)|ARAnimation is an Core Animation library to make you animations easily.ARAnimation 对 Core Animation 进行了封装, 帮助 iOS 开发者能更加便捷的在项目中使用动画.
+|[AugustRush/ARAnimation](https://github.com/AugustRush/ARAnimation)|ARAnimation is an Core Animation library to make you animations easily.ARAnimation** 对 Core Animation 进行了封装, 帮助 iOS 开发者能更加便捷的在项目中使用动画.**
 ##<a name="interface"/>常见UI
 ###文章
 

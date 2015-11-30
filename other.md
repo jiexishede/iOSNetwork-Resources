@@ -77,6 +77,7 @@
 |[正则表达式30分钟入门](http://deerchao.net/tutorials/regex/regex.htm?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|      
 |[17个提升iOS开发效率的必用工具](http://www.cocoachina.com/ios/20151110/14102.html)|可是当我们的开发技巧已经到达一定高度时，如何让开发效率更上一层楼呢？答案就是使用开发工具！在这篇文章中，我会向你介绍一些帮助我提升编码速度和工作效率的工具。|
 |[如何提高移动端注册登录体验](http://www.ui.cn/detail/71046.html)|有多少用户愿意注册登录，决定了一款产品的活跃度。我们来谈一谈如何提高移动端的登录体验。|
+|[Bitcode适配指南](http://www.cocoachina.com/ios/20151130/14432.html)|随着XCode7的发布，Apple提供了一项新的技术来支持App瘦身功能，那就是Bitcode。本文章将会结合自己在支持bitcode过程中遇到的问题，来阐述支持bitcode的过程|
 
 
 
