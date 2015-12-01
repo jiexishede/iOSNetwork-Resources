@@ -30,6 +30,7 @@
 |[Swift 编程思想](http://swift.gg/2015/09/29/thinking-in-swift-1/)|开始用 Swift 写代码的时候最难的事情并不是语法，而是思维方式的转变，去用那些 ObjC 里并没有的 Swift 新概念。
 |[Tuples + Pattern Matching](https://medium.com/the-traveled-ios-developers-guide/tuples-pattern-matching-1f4ae9817112)|Swift 中的 switch 语句其实是基于模式匹配的，Swift 的模式匹配非常灵活，对于像多元组我们也可以使用模式匹配来控制代码的执行。这篇文章为我们介绍了 Swift 中使用 tuple 来做模式匹配的一些例子。
 |[swift教程](http://gold.xitu.io/entry/5636dd7060b22ab52f183dfa)|Hacking with Swift - 从 0 开始的 Swift 开发教程，完全免费。通过 36 个实践项目来学习 Swift 开发，所有的项目采用 Xcode 7.0, Swift 2.0 编写，并有专门的章节讲述 iOS 9 新特性的开发。
+|[深入理解Kingfisher](http://www.jianshu.com/p/326527a4d4f9)|Kingfisher 是由 **@onevcat **编写的用于下载和缓存网络图片的轻量级Swift工具库，其中涉及到了包括GCD、Swift高级语法、缓存、硬盘读写、网络编程、图像编码、图形绘制、Gif数据生成和处理、MD5、Associated Objects的使用等大量iOS开发知识。
 
 
 ## 项目实战
@@ -49,6 +50,8 @@
 |[rizal72/iContactU](https://github.com/rizal72/iContactU)|值得一看|
 |[synboo/SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp)| 貌似一款图片浏览APP
 |[JakeLin/SwiftWeather](https://github.com/JakeLin/SwiftWeather)|**一款天气App** star数 2700+|
+|[badoo/Chatto](https://github.com/badoo/Chatto)|A lightweight framework to build chat applications, made in Swift|
+
 
 
 
