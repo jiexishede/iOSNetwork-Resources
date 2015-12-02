@@ -17,3 +17,4 @@
 |           文章名              |               文章网址      |                
 |:------------------------------:|------------------------|  
 |[lizelu/MVVM](https://github.com/lizelu/MVVM)|一个MVVM架构的iOS工程
+|[hshpy/HPYZhiHuDailly](https://github.com/hshpy/HPYZhiHuDailly)|一个知乎日报的github客户端|

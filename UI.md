@@ -94,6 +94,7 @@
 |[zhengjinghua/StitchingImage](https://github.com/zhengjinghua/StitchingImage)|iOS 仿微信群组封面拼接控件, 直接拖进项目就可使用, 支持 CocoaPods 安装. WeChat-like, drop-in version, stitching mage
 |[EnjoySR/ESRefreshControl](https://github.com/EnjoySR/ESRefreshControl)|仿新浪微博、百度外卖、网易新闻下拉刷新样式Demo|
 |[leichunfeng/WXTabBarController](https://github.com/leichunfeng/WXTabBarController)|在系统 UITabBarController 的基础上实现安卓版微信 TabBar 的滑动切换功能
+|[samvermette/SVSegmentedControl](https://github.com/samvermette/SVSegmentedControl)|A UISwitch-like segmented control for your iOS app
 
 
 ##<a name="AutoLayout"/>AutoLayout

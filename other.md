@@ -44,6 +44,8 @@
 |------|-----
 |[浅谈如何提高编程效率？](http://www.kuqin.com/shuoit/20150819/347681.html)|如何提高编程效率内容。
 |[浅谈程序的核心——复杂度](http://www.cocoachina.com/game/20151013/13725.html)|复杂度的要点所在就是程序给大脑带来的负担，它等同于程序员提升和开发程序的难易程度，这个负担随着模块的复杂度大约是平方级数增长。如果负担很低，那么一段程序的就容易控制，程序员就容易提升程序的质量。
+|[面向对象六大原则](http://www.devtf.cn/?hmsr=toutiao.io&p=1134&utm_medium=toutiao.io&utm_source=toutiao.io)|最难的不是完成应用的开发工作，而是在后续的升级、维护过程中让应用系统能够拥抱变化。拥抱变化也就意味着在满足需求且不破坏系统稳定性的前提下保持高可扩展性、高内聚、低耦合，在经历了各版本的变更之后依然保持清晰、灵活、稳定的系统架构。当然，这是一个比较理想的情况，但我们必须要朝着这个方向去努力，那么遵循面向对象六大原则就是我们走向灵活软件之路所迈出的第一步。
+
 
 
 
@@ -168,6 +170,7 @@
 |[jamy0801/LGWeChatKit](https://github.com/jamy0801/LGWeChatKit)|**swift版 高仿 微信 **|
 |[LonelyTown/LXZEALER](https://github.com/LonelyTown/LXZEALER)| ZEALER 客户端模仿|
 |[GitHub前50名的Objective-C网络相关库](https://github.com/coderyi/blog/blob/master/articles/2015/1108_Network_Rep_Ranking.md)|** 这些网络库包括HTTP，JSON，XML，网络调试，socket，XMPP，WebServer，IRC，download，Bluetooth，OpenSSL，Mail，Proxy，SIP等 还加了聊天蓝牙WebView等经典开源库 **
+|[PHPHub](https://github.com/Aufree/phphub-ios)| 为 PHPHub 项目开源|
 
 
 
