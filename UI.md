@@ -24,6 +24,7 @@
 |[利用UIWebView打造一个炫酷的视频背景视图（OC & Swift）](http://www.cocoachina.com/ios/20151023/13860.html)
 |[SCCatWaitingHUD的Objc代码实现](SCCatWaitingHUD的Objc代码实现)| 一个猫看老鼠的加载动画的实现过程,内附githubDemo|
 |[iOS 保持界面流畅的技巧](http://blog.ibireme.com)|**非常详细的分析 iOS 界面构建中的各种性能问题以及对应的解决思路，同时给出一个开源的微博列表实现，通过实际的代码展示如何构建流畅的交互。**|
+|[一款Loading动画的实现思路（一）：拆分复杂任务](http://www.cocoachina.com/ios/20151202/14532.html)| 不错的效果和创意 内有github 地址|
 
 
 ### 项目

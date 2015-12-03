@@ -20,6 +20,7 @@
 |[够用一年的Git技巧](http://www.imooc.com/article/1426)|
 |[Git课程推荐](https://www.shiyanlou.com/courses/4)|
 |[Git 使用规范流程](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html)|**团队开发中，遵循一个合理、清晰的Git使用流程，是非常重要的。<br>否则，每个人都提交一堆杂乱无章的commit，项目很快就会变得难以协调和维护。**
+|[Git Community Book 中文版](http://gold.xitu.io/entry/565fa3d260b215d6463f9408)|Git Community Book 中文版
 |[Git的撤消操作 - 重置, 签出 和 撤消](http://gitbook.liuhui998.com/4_9.html)|Git提供了多种修复你开发过程中的错误的方法. 方法的选择取决于你的情况: 包含有错误的文件是否提交了(commited); 如果你把它已经提交了, 那么你是否把有错误的提交已与其它人共享这也很重要.
 |[如何在 Git 中使用撤消操作](http://gold.xitu.io/entry/561b189e60b2f3a9cd2a124b)|版本控制系统的一个好处就是你可以轻易地撤销之前错误的操作。
 |[工作区,暂存区,版本库](http://www.worldhello.net/2010/11/30/2166.html)|工作区,暂存区和版本库

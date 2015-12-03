@@ -6,6 +6,8 @@
 |[编程思想之多线程与多进程(1)：以操作系统的角度述说线程与进程](http://blog.jobbole.com/93386/)
 |[编程思想之多线程与多进程(2)：线程优先级与线程安全](http://blog.jobbole.com/93454/)
 |[ChenYilong/ParseSourceCodeStudy](https://github.com/ChenYilong/ParseSourceCodeStudy)|Facebook开源的Parse源码分析【系列】
+|[GCD使用三部曲之：基本用法](http://www.jianshu.com/p/d56064507fb8)|
+|[操作系统中的进程与线程](http://blog.jobbole.com/95261/)|在传统的操作系统中，进程拥有独立的内存地址空间和一个用于控制的线程。但是，现在的情况更多的情况下要求在同一地址空间下拥有多个线程并发执行。因此线程被引入操作系统
 
 
 ##网络  
