@@ -113,6 +113,7 @@
 |[UITabelView的自适应布局](http://ios.jobbole.com/82614/)|  |
 |[深入剖析Auto Layout，分析iOS各版本新增特性](http://www.starming.com/index.php?v=index&view=84)|看了些Auto Layout相关的书籍博客，还有官方文档和WWDC Session相关视频，因为项目中用到了当然要多了解点才能够安心用嘛  (干货)|
 |[AUTO LAYOUT MAGIC: CONTENT SIZING PRIORITIES](http://krakendev.io/blog/autolayout-magic-like-harry-potter-but-real)| **AutoLayout 高级使用细节  英文博客**| 
+|[深入剖析Auto Layout，分析iOS各版本新增特性](http://www.starming.com/index.php?v=index&view=84)|**一篇Masonry心得文章里已经提到了很多AutoLayout相关的知识，这篇我会更加详细的对其知识要点进行分析和整理。WWDC 官方文档**|
 ###项目
 |      项目地址  |  项目描述 |
 |:-------:|--------|

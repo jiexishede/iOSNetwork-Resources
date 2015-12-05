@@ -1,6 +1,6 @@
 
 
-|  网络地址|简介 
+|  网络地址|简  介 
 |:-----:|---------|
 |[***~~Git 项目组GitHub地址~~***](https://github.com/git)|
 |[***Git 官网***](http://git-scm.com/)|
