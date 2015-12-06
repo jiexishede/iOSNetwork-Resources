@@ -6,7 +6,8 @@
 
 ##　　成功者和其他人最大的区别就是，他们真正动手去做了，并且做了下去。100offer--寻找实干和坚持的技术力量: 向那些视程序为生命、不断在前进的人致敬。
 
->任何事情，从现在开始做，都不晚！-- [《岁寒byJohnLui》](http://www.lvwenhan.com/)
+>任何事情，从现在开始做，都不晚！-- [《岁寒byJohnLui》](http://www.lvwenhan.com/)<br>
+"Talk is easy, show me the code."
 
 
     感谢各位作者,如果有什么问题,请联系我,谢谢。
