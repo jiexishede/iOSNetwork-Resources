@@ -10,6 +10,7 @@
 |[Git 使用规范流程](http://mp.weixin.qq.com/s?__biz=MjM5OTMxMzA4NQ==&mid=217946150&idx=2&sn=cd46bb241e29823b9f409aa8fd83b5ac)|团队开发中，遵循一个合理、清晰的Git使用流程，是非常重要的。否则，每个人都提交一堆杂乱无章的commit，项目很快就会变得难以协调和维护。
 |[git命令&nbsp;新学者备用（转载)](http://weibo.com/p/2304186f1093bd0102vqc3)| 一些常用到的指令,包括分支,远程,GitHub的使用
 |[***廖雪峰Git教程(推荐)***](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)|会让你成为Git用户，不会让你成为Git专家。很多Git命令只有那些专家才明白，但我保证这些命令可能你一辈子都不会用到。一旦你真的非用不可了，到时候再自行Google或者请教专家
+|[**Git使用规范流程**](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html)|**团队开发中，遵循一个合理、清晰的Git使用流程，是非常重要的。<br>否则，每个人都提交一堆杂乱无章的commit，项目很快就会变得难以协调和维护。**
 |[猴子都能懂的Git入门](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)|  图文并茂  |
 |[Git指令大全图](http://www.colorfulcat.xyz/2015/09/06/git-command/)|一个git命令整理的思维导图
 |[How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
@@ -19,7 +20,6 @@
 |[常用Git命令汇总](http://www.jianshu.com/p/0f2ffa404ac1)|**汇总了一些常用的Git命令**|
 |[够用一年的Git技巧](http://www.imooc.com/article/1426)|
 |[Git课程推荐](https://www.shiyanlou.com/courses/4)|
-|[Git 使用规范流程](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html)|**团队开发中，遵循一个合理、清晰的Git使用流程，是非常重要的。<br>否则，每个人都提交一堆杂乱无章的commit，项目很快就会变得难以协调和维护。**
 |[Git Community Book 中文版](http://gold.xitu.io/entry/565fa3d260b215d6463f9408)|Git Community Book 中文版
 |[Git的撤消操作 - 重置, 签出 和 撤消](http://gitbook.liuhui998.com/4_9.html)|Git提供了多种修复你开发过程中的错误的方法. 方法的选择取决于你的情况: 包含有错误的文件是否提交了(commited); 如果你把它已经提交了, 那么你是否把有错误的提交已与其它人共享这也很重要.
 |[如何在 Git 中使用撤消操作](http://gold.xitu.io/entry/561b189e60b2f3a9cd2a124b)|版本控制系统的一个好处就是你可以轻易地撤销之前错误的操作。
